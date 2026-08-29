@@ -1,0 +1,1001 @@
+﻿faixa_etaria,sexo,diagnostico,pressao_sistolica,pressao_diastolica,glicemia,imc,qtd_internacoes,classificacao_risco
+18-29,M,Nenhum,105,70,90,18,0,Baixo
+70-79,M,Hipertensão,145,90,85,23,4,Alto
+60-69,M,Nenhum,105,75,100,26,1,Moderado
+40-49,M,Nenhum,110,75,75,28,0,Baixo
+40-49,F,Diabetes tipo 2,110,90,155,25,0,Baixo
+70-79,M,Nenhum,115,65,90,16,0,Moderado
+18-29,M,Hipotireoidismo,110,75,75,19,0,Baixo
+60-69,M,Nenhum,110,75,110,33,2,Moderado
+30-39,M,Diabetes tipo 2,115,70,150,20,0,Moderado
+18-29,M,Hipertensão,130,85,105,38,1,Moderado
+50-59,F,Diabetes tipo 2,120,65,165,26,2,Moderado
+80+,M,Hipertensão,135,95,90,27,3,Alto
+70-79,F,Hipertensão,135,80,95,30,1,Moderado
+70-79,F,Hipotireoidismo,110,90,95,22,1,Moderado
+60-69,M,Nenhum,125,75,110,31,2,Moderado
+70-79,M,Nenhum,115,80,100,25,1,Moderado
+50-59,F,Diabetes tipo 2,110,75,170,27,1,Moderado
+18-29,F,Asma,115,75,85,24,1,Baixo
+70-79,F,Nenhum,130,70,95,28,0,Baixo
+50-59,F,Hipertensão,125,85,105,32,1,Moderado
+50-59,F,Asma,125,75,90,24,0,Baixo
+40-49,F,Diabetes tipo 2,95,70,150,35,0,Moderado
+30-39,M,Hipotireoidismo,115,75,85,23,0,Baixo
+80+,M,Hipertensão,160,85,90,27,3,Alto
+70-79,M,Diabetes tipo 2,120,90,110,29,0,Moderado
+60-69,F,Nenhum,115,75,85,21,0,Baixo
+40-49,F,Hipotireoidismo,110,85,105,26,0,Baixo
+70-79,F,Nenhum,115,75,95,25,0,Baixo
+50-59,M,Diabetes tipo 2,110,75,135,25,1,Moderado
+40-49,F,Hipertensão,125,70,65,30,1,Alto
+50-59,F,Hipertensão,135,85,95,31,2,Alto
+30-39,F,Diabetes tipo 2,115,75,125,26,0,Moderado
+18-29,M,Hipertensão,135,100,85,23,0,Moderado
+50-59,F,Hipotireoidismo,105,75,95,25,0,Baixo
+80+,F,Hipertensão,120,100,90,24,1,Alto
+18-29,M,Diabetes tipo 2,120,80,115,30,1,Alto
+70-79,M,Nenhum,120,85,105,22,0,Baixo
+70-79,F,Hipertensão,140,85,100,38,1,Alto
+30-39,F,Hipertensão,145,100,85,25,1,Moderado
+60-69,M,Nenhum,115,70,85,23,2,Baixo
+18-29,M,Nenhum,120,70,75,23,0,Baixo
+70-79,M,Diabetes tipo 2,120,65,145,33,2,Alto
+60-69,F,Diabetes tipo 2,115,90,150,20,6,Alto
+40-49,F,Diabetes tipo 2,110,80,150,33,6,Alto
+18-29,M,Nenhum,135,75,75,26,1,Baixo
+80+,F,Nenhum,110,85,100,26,0,Moderado
+50-59,F,Nenhum,110,80,90,30,0,Baixo
+80+,M,Diabetes tipo 2,120,90,150,33,2,Alto
+60-69,M,Asma,120,65,100,23,0,Moderado
+70-79,F,Nenhum,100,75,65,26,0,Baixo
+70-79,M,Diabetes tipo 2,125,70,165,26,1,Alto
+30-39,F,Nenhum,115,60,80,25,0,Baixo
+40-49,M,Nenhum,105,80,75,22,0,Baixo
+50-59,M,Nenhum,125,75,90,24,0,Baixo
+50-59,F,Nenhum,120,80,95,18,0,Baixo
+18-29,M,Diabetes tipo 2,100,90,105,33,2,Alto
+50-59,F,Hipotireoidismo,135,70,100,18,0,Baixo
+18-29,M,Nenhum,120,70,95,26,0,Baixo
+70-79,F,Hipertensão,150,95,95,24,0,Alto
+60-69,F,Diabetes tipo 2,130,80,145,28,4,Moderado
+80+,M,Hipotireoidismo,115,70,85,30,1,Moderado
+70-79,M,Diabetes tipo 2,115,70,180,30,0,Alto
+40-49,F,Nenhum,110,80,75,30,0,Baixo
+80+,M,Diabetes tipo 2,120,80,150,33,2,Alto
+40-49,M,Nenhum,120,60,90,22,0,Baixo
+40-49,F,Hipotireoidismo,115,65,90,31,0,Moderado
+80+,M,Nenhum,105,85,80,19,0,Moderado
+40-49,M,Diabetes tipo 2,115,80,135,35,0,Moderado
+18-29,F,Nenhum,115,70,95,23,0,Baixo
+50-59,F,Hipertensão,120,85,80,27,2,Moderado
+70-79,M,Asma,100,75,100,28,2,Moderado
+30-39,F,Diabetes tipo 2,120,80,165,33,1,Moderado
+50-59,M,Hipertensão,120,75,85,30,0,Moderado
+18-29,M,Hipotireoidismo,115,70,95,26,0,Baixo
+60-69,F,Asma,110,75,70,26,0,Moderado
+50-59,F,Nenhum,130,75,95,27,0,Baixo
+40-49,M,Hipertensão,130,95,105,34,2,Alto
+30-39,F,Hipertensão,150,85,105,33,4,Alto
+50-59,F,Diabetes tipo 2,110,80,145,31,3,Alto
+60-69,M,Nenhum,115,85,90,28,1,Baixo
+80+,M,Nenhum,120,80,90,18,0,Baixo
+40-49,M,Hipotireoidismo,110,75,90,24,0,Baixo
+18-29,M,Hipotireoidismo,125,75,95,20,1,Baixo
+70-79,M,Asma,105,70,90,26,0,Moderado
+60-69,F,Hipotireoidismo,120,75,100,32,3,Alto
+60-69,M,Diabetes tipo 2,125,85,170,27,2,Alto
+18-29,M,Diabetes tipo 2,120,75,160,31,2,Alto
+40-49,M,Diabetes tipo 2,135,70,100,29,0,Moderado
+70-79,M,Hipertensão,125,75,80,19,2,Alto
+70-79,F,Hipertensão,120,80,105,26,3,Alto
+40-49,M,Nenhum,105,70,90,26,1,Baixo
+70-79,F,Diabetes tipo 2,120,80,170,18,4,Alto
+70-79,M,Nenhum,120,80,90,21,0,Baixo
+40-49,F,Nenhum,115,80,100,29,0,Baixo
+80+,F,Hipertensão,130,100,95,30,2,Alto
+30-39,F,Hipertensão,155,95,80,27,1,Moderado
+30-39,M,Nenhum,105,70,85,28,0,Baixo
+60-69,M,Asma,125,70,80,26,0,Baixo
+60-69,F,Asma,145,75,115,27,0,Moderado
+18-29,F,Nenhum,120,70,85,24,0,Baixo
+70-79,F,Nenhum,120,65,100,26,3,Moderado
+30-39,F,Nenhum,110,70,85,22,1,Baixo
+70-79,M,Diabetes tipo 2,95,70,130,32,3,Alto
+18-29,F,Asma,110,70,85,31,0,Baixo
+70-79,F,Nenhum,105,75,105,30,1,Alto
+70-79,F,Diabetes tipo 2,100,85,160,28,3,Alto
+70-79,F,Nenhum,130,75,85,21,1,Baixo
+60-69,M,Nenhum,120,90,95,30,0,Baixo
+50-59,M,Hipotireoidismo,120,75,95,27,0,Baixo
+60-69,F,Nenhum,110,75,110,26,1,Baixo
+30-39,M,Nenhum,115,75,95,22,0,Baixo
+70-79,F,Hipertensão,145,80,100,32,1,Alto
+50-59,F,Diabetes tipo 2,115,80,120,27,1,Baixo
+50-59,F,Hipotireoidismo,120,90,80,28,0,Baixo
+50-59,F,Hipotireoidismo,115,70,80,30,1,Alto
+50-59,F,Nenhum,110,80,80,32,0,Baixo
+18-29,M,Nenhum,100,75,75,28,0,Baixo
+18-29,M,Diabetes tipo 2,95,65,145,24,0,Moderado
+30-39,M,Nenhum,110,80,90,26,1,Baixo
+18-29,F,Asma,115,85,90,34,0,Baixo
+40-49,F,Diabetes tipo 2,100,70,85,24,0,Baixo
+60-69,F,Nenhum,115,75,115,25,2,Moderado
+60-69,F,Asma,115,65,85,31,1,Alto
+50-59,F,Nenhum,95,65,110,28,0,Baixo
+70-79,M,Hipertensão,130,90,80,37,1,Alto
+50-59,M,Hipertensão,150,80,85,24,1,Baixo
+18-29,M,Hipertensão,150,75,65,24,1,Moderado
+70-79,M,Diabetes tipo 2,105,75,150,32,4,Alto
+50-59,M,Diabetes tipo 2,115,70,150,27,0,Moderado
+60-69,M,Hipotireoidismo,125,70,85,24,1,Baixo
+50-59,F,Hipotireoidismo,125,80,80,25,0,Baixo
+50-59,M,Hipertensão,135,75,100,31,1,Alto
+18-29,M,Nenhum,110,70,95,28,0,Baixo
+50-59,M,Diabetes tipo 2,110,75,180,26,0,Baixo
+70-79,M,Hipotireoidismo,120,80,90,23,0,Moderado
+30-39,F,Nenhum,115,85,90,30,0,Baixo
+60-69,M,Hipertensão,145,85,80,44,5,Alto
+18-29,F,Hipertensão,135,90,85,33,5,Alto
+40-49,M,Nenhum,125,70,85,25,0,Baixo
+40-49,M,Diabetes tipo 2,115,90,155,22,0,Moderado
+80+,M,Nenhum,125,65,105,22,0,Moderado
+30-39,F,Diabetes tipo 2,125,85,135,27,0,Moderado
+30-39,M,Asma,105,70,80,23,0,Baixo
+40-49,M,Asma,95,90,100,25,1,Moderado
+80+,F,Hipertensão,155,85,95,35,0,Alto
+70-79,F,Nenhum,120,70,95,30,1,Baixo
+18-29,M,Diabetes tipo 2,100,70,115,28,0,Baixo
+30-39,M,Asma,110,80,85,20,0,Baixo
+70-79,M,Hipertensão,160,95,115,34,4,Alto
+18-29,M,Asma,110,75,90,25,0,Baixo
+70-79,F,Nenhum,110,75,100,18,0,Baixo
+30-39,M,Asma,130,80,85,28,1,Baixo
+80+,F,Nenhum,105,75,120,29,0,Baixo
+30-39,M,Nenhum,105,65,105,15,1,Baixo
+40-49,F,Hipertensão,140,85,85,24,0,Moderado
+60-69,M,Nenhum,120,75,90,25,0,Moderado
+18-29,F,Nenhum,120,85,85,28,0,Baixo
+50-59,M,Nenhum,125,85,95,23,1,Baixo
+50-59,F,Hipertensão,145,95,85,24,0,Baixo
+70-79,F,Diabetes tipo 2,120,75,130,33,2,Alto
+80+,M,Nenhum,110,80,110,23,1,Baixo
+60-69,F,Diabetes tipo 2,115,70,140,28,2,Alto
+40-49,M,Asma,115,75,80,21,0,Baixo
+40-49,M,Nenhum,115,70,85,20,1,Baixo
+40-49,M,Nenhum,125,65,85,28,0,Baixo
+70-79,F,Asma,120,75,115,26,0,Moderado
+40-49,F,Asma,115,75,100,29,0,Baixo
+30-39,F,Hipertensão,125,90,100,25,0,Baixo
+40-49,M,Asma,115,80,90,22,0,Baixo
+18-29,M,Nenhum,115,75,85,30,0,Baixo
+18-29,M,Nenhum,115,80,75,19,0,Baixo
+18-29,M,Diabetes tipo 2,135,75,145,32,0,Moderado
+70-79,F,Nenhum,110,80,100,30,3,Moderado
+70-79,F,Diabetes tipo 2,120,70,150,33,4,Alto
+60-69,F,Hipertensão,145,90,90,27,2,Alto
+50-59,F,Diabetes tipo 2,115,80,145,25,0,Moderado
+60-69,F,Hipertensão,160,80,95,26,2,Moderado
+18-29,F,Nenhum,110,75,95,20,0,Baixo
+80+,F,Nenhum,120,70,80,21,0,Baixo
+50-59,F,Nenhum,105,70,100,28,0,Baixo
+80+,M,Diabetes tipo 2,110,65,190,30,6,Alto
+18-29,M,Nenhum,120,85,80,21,0,Baixo
+50-59,M,Nenhum,125,80,70,28,0,Baixo
+60-69,F,Nenhum,120,80,95,27,0,Baixo
+50-59,F,Nenhum,130,90,105,31,0,Baixo
+50-59,F,Asma,115,75,110,27,0,Baixo
+18-29,F,Nenhum,110,95,90,29,0,Baixo
+40-49,M,Hipotireoidismo,140,75,110,27,2,Baixo
+30-39,M,Nenhum,120,75,90,29,1,Baixo
+30-39,F,Diabetes tipo 2,110,70,150,25,0,Moderado
+60-69,F,Hipertensão,120,90,90,29,0,Moderado
+60-69,F,Nenhum,105,80,90,25,0,Baixo
+60-69,F,Asma,125,75,85,24,4,Alto
+40-49,M,Hipotireoidismo,110,85,70,27,0,Baixo
+80+,M,Asma,115,75,110,28,3,Moderado
+18-29,M,Nenhum,115,75,80,27,0,Baixo
+40-49,M,Nenhum,120,70,80,24,0,Baixo
+18-29,M,Diabetes tipo 2,105,80,150,23,1,Moderado
+40-49,M,Nenhum,105,75,90,29,1,Baixo
+80+,M,Diabetes tipo 2,115,70,195,30,2,Alto
+40-49,M,Hipertensão,145,80,110,24,1,Moderado
+80+,F,Hipertensão,145,105,80,27,1,Alto
+50-59,M,Asma,105,75,90,18,0,Baixo
+60-69,M,Diabetes tipo 2,120,65,140,27,0,Moderado
+50-59,M,Nenhum,110,70,100,24,1,Baixo
+30-39,M,Nenhum,110,75,90,23,0,Baixo
+70-79,M,Diabetes tipo 2,105,80,145,37,2,Alto
+80+,M,Hipertensão,155,95,100,26,0,Alto
+30-39,F,Nenhum,120,80,85,28,0,Baixo
+70-79,M,Hipertensão,145,80,110,40,3,Alto
+30-39,M,Diabetes tipo 2,130,75,160,33,0,Moderado
+60-69,M,Asma,145,70,100,25,0,Baixo
+70-79,F,Hipertensão,115,80,70,23,0,Moderado
+50-59,M,Nenhum,110,70,90,20,0,Baixo
+70-79,F,Nenhum,110,65,115,23,0,Baixo
+30-39,F,Hipertensão,140,95,105,23,1,Moderado
+18-29,M,Nenhum,105,80,70,22,0,Baixo
+18-29,M,Hipertensão,135,90,85,27,0,Baixo
+50-59,M,Diabetes tipo 2,105,75,125,27,1,Baixo
+80+,F,Nenhum,120,80,115,27,0,Moderado
+18-29,M,Nenhum,115,65,90,20,1,Baixo
+50-59,M,Nenhum,120,80,85,22,0,Baixo
+60-69,M,Asma,120,75,95,24,0,Baixo
+30-39,M,Diabetes tipo 2,120,80,125,26,1,Moderado
+60-69,F,Nenhum,110,80,85,32,0,Baixo
+40-49,M,Asma,135,70,90,26,0,Baixo
+70-79,F,Hipertensão,145,75,105,21,6,Alto
+50-59,M,Hipertensão,115,80,75,32,3,Alto
+50-59,F,Hipotireoidismo,105,80,90,27,0,Baixo
+30-39,F,Nenhum,100,80,100,24,0,Baixo
+50-59,M,Nenhum,115,65,75,20,0,Baixo
+70-79,M,Hipertensão,140,85,100,36,4,Alto
+18-29,M,Nenhum,110,70,90,21,0,Baixo
+70-79,M,Diabetes tipo 2,135,70,155,30,3,Alto
+50-59,M,Nenhum,120,65,90,26,2,Baixo
+60-69,F,Nenhum,120,65,95,27,0,Baixo
+60-69,F,Nenhum,105,70,100,32,5,Alto
+40-49,F,Hipertensão,135,90,80,28,0,Baixo
+40-49,F,Nenhum,115,65,90,23,0,Baixo
+60-69,F,Nenhum,115,75,90,29,0,Baixo
+18-29,M,Asma,95,80,85,22,0,Baixo
+60-69,M,Nenhum,115,65,100,26,1,Baixo
+18-29,M,Nenhum,115,75,95,20,0,Baixo
+60-69,F,Nenhum,115,80,85,21,0,Baixo
+60-69,M,Nenhum,105,70,95,25,1,Baixo
+18-29,M,Nenhum,110,70,100,26,0,Baixo
+70-79,M,Diabetes tipo 2,115,85,155,19,6,Alto
+40-49,F,Nenhum,115,75,90,27,0,Baixo
+70-79,F,Asma,120,85,95,22,0,Baixo
+18-29,M,Hipotireoidismo,125,80,85,30,1,Moderado
+30-39,F,Nenhum,110,75,70,24,1,Baixo
+50-59,F,Nenhum,110,80,105,20,0,Baixo
+30-39,F,Nenhum,120,75,80,25,0,Baixo
+40-49,M,Diabetes tipo 2,120,80,145,18,2,Moderado
+60-69,M,Nenhum,110,70,90,30,2,Moderado
+18-29,F,Asma,125,75,80,25,1,Baixo
+60-69,F,Diabetes tipo 2,125,75,145,26,1,Moderado
+18-29,M,Asma,130,80,100,27,0,Baixo
+30-39,M,Hipertensão,155,80,90,26,1,Moderado
+60-69,M,Hipotireoidismo,105,80,100,20,1,Moderado
+70-79,F,Nenhum,115,80,90,27,0,Baixo
+30-39,M,Hipertensão,145,75,90,21,0,Moderado
+30-39,F,Nenhum,115,85,85,21,0,Baixo
+80+,M,Hipotireoidismo,110,90,105,28,0,Moderado
+80+,F,Hipertensão,125,95,90,29,6,Alto
+50-59,F,Asma,115,85,110,20,1,Moderado
+50-59,F,Nenhum,105,75,90,22,0,Baixo
+40-49,F,Hipotireoidismo,115,65,90,21,0,Baixo
+60-69,M,Hipertensão,125,75,100,33,0,Alto
+60-69,F,Hipertensão,125,95,95,31,3,Alto
+30-39,F,Hipotireoidismo,115,70,85,23,1,Baixo
+18-29,F,Nenhum,115,70,85,27,1,Baixo
+18-29,M,Nenhum,120,75,95,20,2,Baixo
+80+,M,Hipertensão,160,95,90,23,1,Moderado
+40-49,M,Nenhum,120,65,90,25,0,Baixo
+50-59,M,Nenhum,120,70,90,27,0,Baixo
+50-59,M,Nenhum,105,85,100,25,0,Baixo
+70-79,M,Nenhum,100,70,95,26,1,Baixo
+18-29,F,Asma,130,80,105,25,0,Baixo
+18-29,M,Hipertensão,140,80,85,28,1,Moderado
+30-39,M,Nenhum,105,80,85,24,0,Baixo
+50-59,M,Hipertensão,140,90,90,28,0,Moderado
+60-69,F,Hipertensão,140,95,80,30,2,Alto
+50-59,M,Diabetes tipo 2,105,80,165,29,1,Moderado
+40-49,F,Hipotireoidismo,110,65,85,26,0,Baixo
+80+,F,Hipotireoidismo,125,85,110,20,2,Moderado
+18-29,M,Nenhum,105,70,90,21,0,Baixo
+50-59,F,Nenhum,100,75,90,27,0,Baixo
+50-59,F,Hipertensão,145,90,105,35,1,Moderado
+50-59,M,Hipertensão,145,95,105,29,0,Moderado
+70-79,F,Hipertensão,135,90,110,25,0,Moderado
+30-39,M,Diabetes tipo 2,100,70,115,28,1,Moderado
+80+,F,Hipertensão,135,80,90,23,2,Alto
+40-49,F,Nenhum,115,80,110,30,0,Baixo
+50-59,M,Nenhum,125,75,95,26,0,Baixo
+50-59,M,Nenhum,105,85,90,22,0,Baixo
+70-79,F,Nenhum,115,75,105,24,0,Moderado
+40-49,M,Nenhum,120,65,100,23,0,Baixo
+30-39,M,Diabetes tipo 2,90,80,140,35,1,Alto
+18-29,F,Nenhum,125,70,90,24,0,Baixo
+40-49,M,Nenhum,105,75,100,26,0,Baixo
+70-79,F,Hipertensão,135,85,85,30,2,Alto
+18-29,M,Diabetes tipo 2,120,85,130,27,4,Alto
+80+,M,Nenhum,125,70,85,26,1,Moderado
+50-59,M,Asma,120,75,85,26,1,Baixo
+18-29,M,Hipotireoidismo,90,75,85,19,0,Baixo
+30-39,F,Hipertensão,140,85,95,29,2,Moderado
+50-59,F,Diabetes tipo 2,115,75,160,31,2,Moderado
+40-49,F,Nenhum,115,85,85,26,0,Baixo
+18-29,M,Hipotireoidismo,120,70,90,25,0,Baixo
+60-69,M,Nenhum,125,80,80,26,0,Baixo
+60-69,F,Hipotireoidismo,120,55,100,30,5,Alto
+18-29,M,Hipertensão,140,80,100,23,1,Moderado
+30-39,M,Nenhum,95,75,90,24,0,Baixo
+30-39,M,Nenhum,110,70,85,28,2,Baixo
+60-69,F,Diabetes tipo 2,120,85,160,30,3,Moderado
+70-79,M,Hipertensão,125,90,75,29,1,Moderado
+70-79,M,Nenhum,120,75,100,36,0,Moderado
+80+,F,Diabetes tipo 2,125,70,190,31,4,Alto
+70-79,F,Asma,115,60,95,30,1,Moderado
+40-49,F,Hipertensão,105,70,90,29,1,Moderado
+18-29,F,Hipertensão,130,95,95,24,0,Moderado
+60-69,M,Nenhum,135,60,110,24,0,Baixo
+80+,M,Diabetes tipo 2,110,70,150,28,0,Moderado
+80+,M,Nenhum,95,70,75,27,0,Moderado
+30-39,F,Asma,125,85,95,27,0,Baixo
+30-39,M,Nenhum,115,80,115,24,0,Baixo
+18-29,F,Hipertensão,155,80,95,28,0,Baixo
+18-29,M,Nenhum,120,85,75,24,1,Baixo
+50-59,F,Nenhum,120,70,95,28,1,Baixo
+50-59,F,Diabetes tipo 2,120,80,145,32,0,Alto
+40-49,M,Hipertensão,145,75,105,24,3,Moderado
+40-49,F,Hipertensão,160,90,80,29,1,Moderado
+70-79,M,Hipotireoidismo,125,70,95,22,2,Moderado
+50-59,M,Hipotireoidismo,100,70,85,27,0,Baixo
+70-79,M,Asma,120,75,90,24,0,Moderado
+80+,M,Nenhum,125,75,110,31,3,Alto
+40-49,F,Hipertensão,145,85,90,23,0,Moderado
+30-39,M,Asma,110,80,85,26,0,Baixo
+80+,F,Nenhum,125,70,85,27,1,Moderado
+60-69,M,Nenhum,125,80,75,22,0,Baixo
+30-39,F,Asma,140,80,75,25,3,Baixo
+60-69,F,Hipertensão,130,85,95,29,0,Moderado
+50-59,M,Hipertensão,145,85,100,24,0,Baixo
+80+,F,Hipotireoidismo,110,75,90,23,0,Moderado
+30-39,M,Diabetes tipo 2,110,80,165,32,2,Alto
+80+,M,Hipertensão,140,100,90,24,0,Alto
+80+,M,Nenhum,85,80,95,27,0,Baixo
+30-39,M,Hipertensão,130,100,80,29,0,Baixo
+18-29,M,Nenhum,120,95,100,19,0,Baixo
+50-59,F,Diabetes tipo 2,110,80,160,30,3,Alto
+18-29,F,Asma,135,80,70,19,0,Baixo
+30-39,F,Nenhum,115,80,85,28,0,Baixo
+40-49,M,Nenhum,130,70,105,23,0,Baixo
+80+,F,Asma,120,70,85,25,3,Moderado
+80+,F,Nenhum,125,70,105,20,2,Moderado
+18-29,F,Hipertensão,145,85,100,27,1,Baixo
+80+,F,Hipertensão,155,90,95,30,1,Alto
+18-29,F,Diabetes tipo 2,115,75,150,24,2,Moderado
+70-79,F,Nenhum,120,85,110,23,0,Baixo
+70-79,F,Diabetes tipo 2,120,80,170,30,2,Alto
+80+,F,Nenhum,110,75,95,27,1,Moderado
+30-39,F,Diabetes tipo 2,120,70,135,17,1,Moderado
+80+,F,Nenhum,135,85,85,33,1,Alto
+18-29,M,Hipertensão,155,95,100,25,2,Moderado
+50-59,F,Hipertensão,140,80,80,32,1,Moderado
+50-59,F,Nenhum,130,75,90,24,2,Baixo
+40-49,F,Nenhum,125,75,90,18,0,Baixo
+18-29,M,Nenhum,115,80,80,28,2,Baixo
+70-79,M,Nenhum,90,80,100,23,2,Moderado
+40-49,M,Nenhum,120,75,115,27,1,Baixo
+60-69,F,Hipotireoidismo,95,80,90,24,2,Moderado
+40-49,F,Hipertensão,160,85,85,30,0,Moderado
+40-49,F,Asma,115,70,100,22,0,Baixo
+80+,M,Hipotireoidismo,125,75,100,28,3,Moderado
+18-29,M,Nenhum,105,75,100,20,0,Baixo
+70-79,M,Diabetes tipo 2,100,75,190,35,2,Alto
+70-79,M,Asma,120,60,90,34,3,Moderado
+40-49,M,Diabetes tipo 2,115,70,160,34,3,Alto
+30-39,M,Hipertensão,140,90,75,35,1,Alto
+18-29,M,Hipertensão,135,80,70,24,0,Baixo
+80+,F,Nenhum,145,75,100,30,0,Baixo
+80+,F,Hipertensão,145,95,85,26,4,Alto
+30-39,M,Hipotireoidismo,125,65,100,19,0,Baixo
+18-29,F,Hipotireoidismo,125,65,85,31,2,Baixo
+18-29,F,Nenhum,130,75,85,30,1,Baixo
+18-29,M,Diabetes tipo 2,115,80,145,28,1,Baixo
+70-79,F,Nenhum,95,85,100,20,1,Moderado
+80+,M,Hipotireoidismo,115,80,90,23,1,Moderado
+18-29,M,Nenhum,125,65,80,18,0,Baixo
+70-79,F,Hipotireoidismo,105,75,105,29,0,Baixo
+30-39,M,Asma,115,75,90,19,0,Baixo
+40-49,M,Nenhum,110,75,90,26,0,Baixo
+60-69,M,Nenhum,130,80,100,22,1,Moderado
+60-69,F,Asma,120,70,95,19,1,Moderado
+80+,M,Nenhum,120,75,100,26,1,Baixo
+18-29,M,Hipertensão,140,90,80,28,0,Baixo
+30-39,M,Hipotireoidismo,115,80,110,28,0,Baixo
+30-39,F,Hipertensão,135,80,85,23,0,Baixo
+40-49,F,Nenhum,105,75,105,22,0,Baixo
+80+,M,Hipertensão,115,70,95,18,3,Alto
+70-79,F,Nenhum,115,70,105,16,0,Baixo
+40-49,F,Hipotireoidismo,120,70,100,32,0,Moderado
+80+,F,Nenhum,125,70,110,33,1,Alto
+50-59,F,Nenhum,130,75,85,25,0,Baixo
+50-59,F,Nenhum,130,75,105,22,0,Baixo
+40-49,F,Hipotireoidismo,105,60,110,24,1,Baixo
+18-29,M,Nenhum,110,75,85,28,1,Baixo
+80+,F,Asma,120,70,95,23,1,Moderado
+18-29,F,Diabetes tipo 2,140,80,135,25,0,Baixo
+30-39,F,Asma,130,65,85,25,1,Moderado
+30-39,M,Hipotireoidismo,125,75,105,23,0,Baixo
+30-39,F,Asma,110,75,80,23,1,Baixo
+18-29,M,Hipotireoidismo,105,75,80,26,1,Moderado
+18-29,M,Nenhum,125,75,105,21,0,Baixo
+60-69,M,Diabetes tipo 2,105,75,165,31,2,Alto
+80+,M,Hipertensão,135,80,120,26,3,Alto
+18-29,F,Hipertensão,130,75,85,28,1,Baixo
+30-39,M,Asma,130,70,90,30,1,Baixo
+50-59,F,Hipotireoidismo,110,75,85,24,1,Moderado
+80+,M,Diabetes tipo 2,90,70,140,32,4,Alto
+60-69,M,Hipertensão,135,90,75,20,2,Alto
+70-79,M,Hipertensão,130,85,100,26,2,Moderado
+50-59,M,Nenhum,115,70,95,25,0,Baixo
+40-49,F,Nenhum,115,75,90,33,0,Baixo
+30-39,M,Nenhum,110,75,85,17,0,Baixo
+80+,M,Nenhum,125,75,85,25,0,Baixo
+70-79,M,Nenhum,100,90,100,31,2,Alto
+18-29,F,Diabetes tipo 2,110,70,125,25,3,Alto
+60-69,M,Hipertensão,150,95,100,29,2,Moderado
+18-29,F,Hipotireoidismo,110,80,110,26,2,Baixo
+70-79,F,Diabetes tipo 2,100,75,175,29,0,Moderado
+70-79,F,Nenhum,120,70,80,31,4,Alto
+18-29,M,Nenhum,125,65,85,27,0,Baixo
+40-49,F,Nenhum,115,70,95,30,0,Baixo
+18-29,F,Hipotireoidismo,95,70,85,24,0,Baixo
+50-59,F,Nenhum,120,65,80,22,0,Baixo
+80+,M,Hipertensão,115,75,100,24,4,Alto
+18-29,F,Hipotireoidismo,120,70,85,20,0,Baixo
+40-49,M,Hipotireoidismo,105,80,110,27,0,Baixo
+80+,M,Nenhum,105,80,95,24,0,Baixo
+30-39,M,Nenhum,110,70,100,22,0,Baixo
+18-29,M,Nenhum,115,75,75,27,1,Baixo
+50-59,F,Nenhum,110,60,80,20,0,Baixo
+50-59,F,Nenhum,120,70,100,28,0,Baixo
+60-69,F,Hipertensão,135,90,105,24,1,Moderado
+40-49,M,Hipotireoidismo,125,80,80,30,0,Baixo
+80+,M,Hipertensão,140,75,95,25,2,Alto
+50-59,M,Diabetes tipo 2,110,80,120,32,0,Moderado
+30-39,F,Nenhum,105,65,90,26,0,Baixo
+80+,F,Asma,100,65,105,28,3,Moderado
+80+,F,Diabetes tipo 2,120,80,120,28,4,Alto
+50-59,F,Asma,110,85,90,18,1,Baixo
+18-29,F,Hipotireoidismo,90,80,75,29,0,Baixo
+60-69,M,Nenhum,110,75,85,25,0,Baixo
+50-59,F,Nenhum,105,60,110,28,0,Baixo
+18-29,M,Nenhum,130,60,90,28,0,Baixo
+60-69,F,Hipertensão,130,85,85,24,2,Alto
+70-79,F,Hipotireoidismo,100,70,95,21,2,Alto
+18-29,M,Nenhum,125,65,70,28,0,Baixo
+70-79,M,Diabetes tipo 2,130,75,120,25,0,Moderado
+18-29,F,Hipertensão,140,90,100,31,2,Moderado
+70-79,F,Nenhum,110,80,95,24,0,Baixo
+40-49,F,Nenhum,120,75,110,29,0,Baixo
+18-29,M,Diabetes tipo 2,90,85,120,31,4,Alto
+80+,F,Diabetes tipo 2,95,75,155,28,1,Alto
+18-29,M,Hipertensão,140,80,95,26,0,Baixo
+60-69,F,Nenhum,130,80,65,26,0,Baixo
+30-39,M,Diabetes tipo 2,110,70,150,34,2,Alto
+80+,F,Nenhum,115,95,95,25,0,Baixo
+70-79,M,Hipotireoidismo,125,80,110,27,0,Baixo
+70-79,M,Nenhum,135,80,105,25,0,Baixo
+40-49,F,Nenhum,110,80,80,26,0,Baixo
+50-59,F,Hipertensão,140,105,105,33,3,Alto
+60-69,M,Hipertensão,150,100,90,30,5,Alto
+70-79,F,Hipertensão,125,70,85,27,2,Alto
+70-79,F,Hipertensão,140,100,100,27,4,Alto
+18-29,F,Hipotireoidismo,105,75,85,22,1,Baixo
+60-69,F,Hipertensão,145,90,110,25,1,Moderado
+18-29,F,Hipertensão,150,75,90,31,2,Moderado
+30-39,F,Hipertensão,135,90,90,30,0,Baixo
+70-79,F,Nenhum,105,70,105,28,0,Baixo
+30-39,F,Hipertensão,150,85,100,23,0,Baixo
+70-79,F,Nenhum,125,75,105,29,1,Baixo
+50-59,F,Diabetes tipo 2,115,90,180,28,0,Baixo
+30-39,M,Nenhum,115,90,95,21,0,Baixo
+40-49,F,Hipotireoidismo,120,75,90,30,3,Moderado
+50-59,F,Hipertensão,130,90,105,32,0,Moderado
+70-79,F,Asma,120,70,95,26,1,Baixo
+60-69,M,Hipertensão,150,100,95,33,2,Alto
+80+,F,Nenhum,140,75,115,28,1,Moderado
+80+,F,Asma,110,70,110,31,1,Alto
+70-79,F,Diabetes tipo 2,110,80,170,30,0,Moderado
+60-69,F,Diabetes tipo 2,125,70,160,21,3,Alto
+30-39,F,Hipertensão,150,85,105,34,3,Alto
+40-49,F,Diabetes tipo 2,110,65,120,33,1,Moderado
+18-29,M,Asma,110,80,90,23,0,Baixo
+40-49,M,Diabetes tipo 2,120,90,155,28,1,Moderado
+80+,F,Nenhum,105,80,100,27,1,Moderado
+40-49,M,Diabetes tipo 2,110,85,140,30,3,Moderado
+18-29,M,Diabetes tipo 2,115,70,140,31,1,Moderado
+60-69,F,Hipotireoidismo,125,75,95,28,0,Moderado
+80+,F,Nenhum,110,70,100,23,0,Moderado
+80+,F,Hipertensão,120,90,90,23,1,Alto
+30-39,M,Asma,95,80,100,26,0,Baixo
+50-59,F,Hipertensão,130,90,105,27,0,Moderado
+50-59,M,Diabetes tipo 2,100,65,155,29,0,Baixo
+30-39,F,Hipertensão,145,75,85,23,0,Moderado
+30-39,M,Nenhum,105,65,95,24,0,Baixo
+30-39,M,Diabetes tipo 2,110,80,145,28,1,Alto
+80+,F,Nenhum,105,90,85,27,2,Moderado
+70-79,F,Nenhum,110,85,100,22,1,Baixo
+70-79,M,Diabetes tipo 2,130,60,165,20,4,Alto
+70-79,F,Diabetes tipo 2,120,85,180,27,1,Alto
+80+,F,Asma,115,80,110,27,1,Moderado
+18-29,M,Nenhum,110,65,95,27,0,Baixo
+80+,F,Nenhum,110,75,100,23,2,Moderado
+18-29,F,Hipotireoidismo,120,85,90,26,0,Baixo
+50-59,F,Nenhum,120,80,80,31,0,Baixo
+60-69,F,Nenhum,105,65,75,26,1,Baixo
+40-49,M,Nenhum,115,80,80,18,0,Baixo
+18-29,M,Hipertensão,120,70,90,26,0,Baixo
+30-39,F,Asma,115,75,70,33,2,Moderado
+70-79,F,Diabetes tipo 2,125,85,110,28,1,Alto
+40-49,M,Diabetes tipo 2,110,75,135,30,2,Moderado
+40-49,F,Nenhum,135,70,90,24,0,Baixo
+80+,F,Nenhum,105,80,90,25,1,Moderado
+18-29,F,Hipertensão,145,95,85,29,0,Moderado
+80+,F,Nenhum,115,85,115,30,2,Baixo
+80+,M,Nenhum,115,80,105,25,0,Baixo
+60-69,F,Nenhum,115,85,90,30,4,Alto
+18-29,F,Nenhum,115,80,90,24,1,Baixo
+18-29,M,Hipertensão,140,85,90,25,1,Moderado
+30-39,F,Diabetes tipo 2,130,75,135,26,2,Moderado
+50-59,M,Nenhum,115,75,85,18,0,Baixo
+18-29,F,Hipertensão,160,80,100,31,2,Alto
+50-59,F,Diabetes tipo 2,110,70,140,36,0,Alto
+18-29,F,Diabetes tipo 2,125,75,115,26,1,Baixo
+50-59,M,Asma,105,75,90,28,0,Baixo
+18-29,M,Hipertensão,155,100,90,23,0,Moderado
+60-69,F,Asma,135,75,75,24,1,Baixo
+18-29,F,Nenhum,115,80,85,29,0,Baixo
+30-39,F,Nenhum,95,85,100,33,0,Baixo
+30-39,M,Nenhum,110,75,95,31,0,Moderado
+70-79,F,Hipertensão,150,90,120,29,1,Moderado
+18-29,M,Nenhum,120,75,100,25,0,Baixo
+40-49,M,Nenhum,120,85,105,26,0,Baixo
+60-69,M,Diabetes tipo 2,125,80,170,22,0,Moderado
+50-59,F,Nenhum,120,65,100,19,0,Baixo
+60-69,F,Nenhum,125,75,95,20,1,Baixo
+70-79,F,Nenhum,125,85,105,25,0,Moderado
+40-49,M,Hipertensão,160,85,85,26,0,Moderado
+70-79,M,Nenhum,120,80,95,19,1,Moderado
+40-49,M,Nenhum,125,80,85,25,1,Baixo
+80+,F,Nenhum,110,70,100,24,1,Moderado
+50-59,F,Diabetes tipo 2,110,80,155,24,0,Baixo
+70-79,M,Hipotireoidismo,130,65,90,24,2,Moderado
+80+,M,Hipertensão,150,75,100,30,2,Alto
+70-79,M,Diabetes tipo 2,125,80,150,25,5,Alto
+70-79,M,Asma,115,80,75,29,2,Moderado
+50-59,F,Hipotireoidismo,110,75,80,17,1,Baixo
+18-29,F,Diabetes tipo 2,115,80,140,21,0,Moderado
+50-59,F,Asma,130,75,85,25,0,Baixo
+30-39,M,Hipotireoidismo,120,75,95,25,0,Baixo
+80+,M,Diabetes tipo 2,100,80,130,29,4,Alto
+30-39,F,Hipertensão,130,85,100,25,0,Moderado
+30-39,M,Nenhum,135,75,95,21,1,Baixo
+30-39,M,Nenhum,115,75,100,25,0,Baixo
+60-69,M,Hipertensão,120,80,100,28,2,Moderado
+50-59,M,Hipertensão,165,80,95,34,4,Alto
+80+,F,Hipertensão,140,90,110,29,3,Alto
+40-49,F,Hipertensão,140,90,100,28,0,Baixo
+30-39,M,Hipertensão,135,80,95,37,0,Moderado
+18-29,M,Asma,125,65,100,24,0,Baixo
+18-29,F,Nenhum,110,75,65,27,0,Baixo
+40-49,F,Nenhum,125,85,90,28,0,Baixo
+80+,M,Diabetes tipo 2,120,75,140,28,1,Alto
+50-59,M,Asma,115,85,105,26,1,Moderado
+80+,F,Hipotireoidismo,115,80,110,26,0,Baixo
+18-29,M,Asma,115,80,75,25,0,Baixo
+18-29,F,Asma,125,65,100,23,0,Baixo
+70-79,F,Nenhum,105,80,85,26,0,Baixo
+18-29,M,Hipertensão,125,75,75,37,1,Moderado
+18-29,F,Nenhum,120,80,85,30,0,Baixo
+40-49,M,Diabetes tipo 2,120,70,140,30,2,Moderado
+80+,F,Hipotireoidismo,120,75,80,28,1,Moderado
+60-69,M,Nenhum,120,80,100,22,1,Baixo
+18-29,F,Hipertensão,125,90,95,27,1,Moderado
+70-79,M,Nenhum,125,80,105,29,0,Moderado
+70-79,F,Nenhum,115,75,90,31,1,Moderado
+70-79,M,Nenhum,110,70,95,22,1,Baixo
+80+,F,Nenhum,110,85,95,23,1,Moderado
+30-39,F,Hipotireoidismo,135,80,105,34,0,Moderado
+80+,F,Hipertensão,125,85,70,27,5,Alto
+40-49,M,Asma,120,80,80,32,0,Baixo
+70-79,F,Diabetes tipo 2,100,70,155,30,5,Alto
+50-59,M,Nenhum,115,65,80,26,0,Baixo
+70-79,M,Nenhum,110,80,90,24,0,Baixo
+60-69,M,Asma,95,65,90,29,1,Moderado
+60-69,M,Nenhum,120,80,85,30,0,Moderado
+60-69,F,Hipotireoidismo,110,75,95,21,0,Baixo
+70-79,M,Nenhum,95,75,100,24,0,Moderado
+70-79,M,Diabetes tipo 2,125,80,170,31,1,Alto
+18-29,F,Asma,130,80,85,24,1,Baixo
+70-79,F,Nenhum,130,70,95,23,0,Baixo
+50-59,M,Nenhum,120,80,90,29,1,Baixo
+40-49,F,Hipotireoidismo,115,75,75,29,1,Baixo
+50-59,M,Nenhum,130,65,95,23,0,Baixo
+80+,F,Hipertensão,155,80,90,29,1,Alto
+70-79,F,Hipertensão,155,95,110,21,2,Moderado
+70-79,M,Nenhum,105,85,100,21,0,Baixo
+50-59,F,Diabetes tipo 2,115,80,150,24,2,Moderado
+70-79,M,Diabetes tipo 2,120,65,145,26,0,Alto
+40-49,M,Nenhum,95,80,85,21,0,Baixo
+60-69,F,Asma,120,80,80,22,0,Moderado
+60-69,F,Nenhum,140,80,85,21,1,Moderado
+30-39,M,Nenhum,120,80,100,27,0,Baixo
+30-39,M,Hipertensão,155,85,105,20,2,Moderado
+18-29,F,Hipotireoidismo,115,75,75,21,0,Baixo
+18-29,M,Nenhum,115,70,85,18,1,Baixo
+40-49,F,Nenhum,120,60,90,27,0,Baixo
+50-59,F,Hipertensão,125,90,100,22,0,Moderado
+18-29,M,Asma,105,75,70,25,0,Baixo
+40-49,F,Nenhum,130,80,75,32,0,Baixo
+60-69,M,Nenhum,130,65,100,32,4,Moderado
+30-39,M,Diabetes tipo 2,105,80,140,19,2,Moderado
+40-49,M,Nenhum,125,90,85,26,0,Baixo
+40-49,M,Nenhum,115,75,90,21,0,Baixo
+50-59,F,Nenhum,120,75,95,20,0,Baixo
+40-49,F,Hipertensão,145,85,90,29,0,Moderado
+70-79,M,Hipertensão,155,100,90,33,1,Alto
+40-49,M,Asma,115,70,100,27,0,Baixo
+40-49,F,Diabetes tipo 2,130,75,135,25,0,Baixo
+40-49,M,Diabetes tipo 2,120,70,120,31,3,Moderado
+30-39,F,Hipotireoidismo,120,70,90,16,0,Baixo
+60-69,M,Hipertensão,135,85,100,24,1,Moderado
+30-39,F,Hipertensão,170,95,105,23,2,Moderado
+30-39,M,Hipotireoidismo,120,90,100,25,0,Baixo
+70-79,F,Nenhum,120,80,105,24,0,Moderado
+80+,F,Diabetes tipo 2,100,70,145,27,4,Alto
+60-69,M,Diabetes tipo 2,105,90,125,27,0,Moderado
+80+,F,Nenhum,125,70,95,25,1,Moderado
+70-79,F,Hipertensão,145,80,95,29,4,Alto
+50-59,M,Nenhum,95,65,80,26,1,Baixo
+70-79,F,Nenhum,125,85,110,24,0,Baixo
+40-49,F,Hipertensão,140,100,100,30,2,Moderado
+50-59,F,Nenhum,130,90,90,28,0,Baixo
+50-59,M,Diabetes tipo 2,115,65,165,27,1,Moderado
+80+,M,Hipotireoidismo,115,85,100,25,1,Moderado
+70-79,M,Asma,125,75,105,30,0,Moderado
+50-59,F,Nenhum,105,80,80,21,0,Baixo
+60-69,F,Nenhum,105,65,90,32,2,Moderado
+30-39,F,Nenhum,115,85,90,20,0,Baixo
+70-79,M,Nenhum,125,80,100,24,0,Moderado
+50-59,F,Hipotireoidismo,100,75,85,21,0,Baixo
+50-59,F,Hipertensão,125,95,65,34,1,Moderado
+70-79,M,Nenhum,125,70,85,23,0,Baixo
+60-69,M,Asma,110,70,95,23,0,Moderado
+18-29,M,Nenhum,110,70,90,24,0,Baixo
+30-39,F,Nenhum,95,60,105,25,0,Baixo
+30-39,M,Nenhum,110,80,95,24,0,Baixo
+70-79,M,Diabetes tipo 2,115,85,170,29,2,Moderado
+18-29,F,Diabetes tipo 2,125,70,155,15,1,Baixo
+30-39,M,Nenhum,105,75,100,25,0,Baixo
+60-69,M,Hipotireoidismo,130,75,85,25,2,Moderado
+60-69,F,Asma,110,75,95,29,0,Baixo
+50-59,M,Asma,110,70,80,30,2,Moderado
+70-79,M,Nenhum,130,70,110,24,0,Moderado
+80+,M,Nenhum,115,80,100,28,0,Moderado
+18-29,M,Asma,110,75,80,21,0,Baixo
+80+,M,Nenhum,115,90,95,28,3,Moderado
+60-69,M,Diabetes tipo 2,130,75,160,20,2,Alto
+60-69,F,Diabetes tipo 2,130,70,120,24,1,Moderado
+18-29,M,Nenhum,105,85,80,24,0,Baixo
+60-69,M,Diabetes tipo 2,115,80,135,37,2,Alto
+70-79,M,Hipotireoidismo,115,80,100,26,1,Moderado
+50-59,F,Diabetes tipo 2,105,85,115,37,2,Moderado
+18-29,F,Hipertensão,135,70,85,25,0,Moderado
+50-59,M,Asma,115,75,80,29,0,Moderado
+80+,M,Hipertensão,155,85,100,26,4,Alto
+70-79,M,Diabetes tipo 2,125,65,145,29,0,Moderado
+18-29,F,Asma,110,75,85,26,0,Baixo
+80+,F,Diabetes tipo 2,115,85,165,30,3,Alto
+80+,M,Nenhum,120,75,105,26,1,Moderado
+30-39,F,Nenhum,110,65,95,22,0,Baixo
+70-79,M,Nenhum,120,65,100,28,0,Moderado
+40-49,F,Hipertensão,135,90,90,34,2,Alto
+60-69,F,Hipertensão,135,90,85,24,1,Moderado
+50-59,M,Hipertensão,130,90,80,22,1,Moderado
+70-79,F,Nenhum,130,75,90,27,1,Baixo
+80+,M,Diabetes tipo 2,115,65,170,24,4,Alto
+70-79,M,Hipotireoidismo,130,85,85,24,0,Moderado
+80+,M,Nenhum,110,70,100,27,0,Baixo
+80+,F,Diabetes tipo 2,120,85,140,23,3,Alto
+18-29,F,Diabetes tipo 2,140,75,100,28,0,Baixo
+30-39,M,Hipertensão,125,100,100,31,0,Baixo
+60-69,F,Nenhum,95,75,90,31,1,Moderado
+60-69,F,Diabetes tipo 2,130,80,140,30,1,Moderado
+18-29,F,Hipotireoidismo,105,80,75,20,1,Baixo
+18-29,M,Diabetes tipo 2,115,80,155,28,0,Moderado
+50-59,F,Hipotireoidismo,110,75,105,26,0,Baixo
+60-69,F,Hipotireoidismo,120,75,90,20,1,Moderado
+30-39,M,Nenhum,105,90,85,19,0,Baixo
+30-39,F,Diabetes tipo 2,115,70,155,30,0,Moderado
+18-29,M,Hipertensão,140,90,70,33,3,Alto
+50-59,M,Hipotireoidismo,105,75,110,24,0,Baixo
+18-29,M,Nenhum,110,80,110,26,0,Baixo
+50-59,M,Hipertensão,140,85,65,28,2,Moderado
+50-59,F,Asma,100,75,90,27,1,Baixo
+50-59,F,Nenhum,110,75,85,27,0,Baixo
+60-69,F,Diabetes tipo 2,115,65,160,18,4,Alto
+50-59,F,Nenhum,110,75,90,24,0,Baixo
+70-79,M,Hipotireoidismo,110,65,105,27,0,Baixo
+70-79,M,Asma,115,65,95,23,0,Moderado
+80+,M,Nenhum,110,75,90,25,2,Moderado
+70-79,M,Diabetes tipo 2,120,80,150,29,1,Alto
+50-59,M,Nenhum,130,80,95,25,0,Baixo
+50-59,F,Diabetes tipo 2,110,80,150,34,2,Moderado
+30-39,F,Diabetes tipo 2,120,60,120,38,6,Alto
+60-69,M,Asma,115,65,115,24,1,Moderado
+18-29,F,Nenhum,120,90,80,24,0,Baixo
+80+,M,Nenhum,130,70,95,15,2,Moderado
+70-79,M,Diabetes tipo 2,120,80,135,28,4,Alto
+18-29,M,Hipertensão,115,85,95,20,2,Moderado
+70-79,M,Hipertensão,140,90,115,32,2,Alto
+18-29,M,Nenhum,125,70,95,26,1,Baixo
+60-69,M,Nenhum,115,80,80,28,1,Moderado
+18-29,M,Asma,125,75,75,31,4,Moderado
+50-59,F,Nenhum,110,70,90,25,1,Baixo
+60-69,F,Nenhum,100,70,90,34,1,Moderado
+70-79,M,Hipotireoidismo,115,75,75,26,0,Moderado
+40-49,M,Nenhum,95,65,100,20,0,Baixo
+80+,M,Diabetes tipo 2,115,80,150,22,4,Alto
+70-79,M,Nenhum,130,95,110,24,0,Baixo
+30-39,M,Asma,95,85,105,27,0,Baixo
+60-69,M,Diabetes tipo 2,100,80,150,25,4,Alto
+70-79,M,Asma,105,75,100,24,0,Baixo
+40-49,F,Nenhum,115,60,80,24,0,Baixo
+70-79,F,Hipertensão,130,85,100,31,2,Alto
+80+,F,Diabetes tipo 2,130,85,160,30,1,Alto
+70-79,F,Nenhum,125,70,85,28,1,Moderado
+70-79,M,Nenhum,120,70,90,30,1,Baixo
+60-69,F,Nenhum,115,75,90,24,0,Baixo
+30-39,F,Hipotireoidismo,120,70,85,30,0,Baixo
+70-79,F,Diabetes tipo 2,105,65,170,26,2,Alto
+40-49,M,Diabetes tipo 2,125,75,130,21,1,Baixo
+50-59,M,Diabetes tipo 2,105,70,160,26,1,Baixo
+40-49,F,Hipertensão,140,85,75,29,0,Baixo
+40-49,M,Hipertensão,155,80,105,33,2,Alto
+18-29,M,Hipertensão,145,85,80,27,0,Moderado
+80+,M,Diabetes tipo 2,115,75,145,27,3,Alto
+18-29,M,Nenhum,120,75,85,24,1,Baixo
+18-29,M,Asma,85,80,85,27,0,Baixo
+80+,F,Asma,120,75,105,23,0,Moderado
+50-59,M,Nenhum,115,75,110,23,0,Baixo
+40-49,F,Hipertensão,140,95,105,19,0,Moderado
+70-79,F,Nenhum,120,80,90,23,0,Baixo
+40-49,M,Hipotireoidismo,115,75,95,30,0,Baixo
+18-29,M,Hipotireoidismo,105,75,80,25,0,Baixo
+70-79,M,Hipotireoidismo,115,70,85,22,1,Moderado
+30-39,F,Nenhum,115,70,75,30,0,Baixo
+50-59,F,Nenhum,115,80,90,23,0,Baixo
+80+,F,Nenhum,115,80,100,31,1,Alto
+80+,M,Nenhum,125,80,80,31,1,Moderado
+40-49,M,Nenhum,105,75,90,25,0,Baixo
+70-79,M,Nenhum,115,75,110,19,0,Baixo
+60-69,M,Hipotireoidismo,130,80,105,34,3,Alto
+50-59,F,Nenhum,100,80,85,26,0,Baixo
+18-29,F,Nenhum,115,80,75,24,1,Baixo
+40-49,F,Asma,110,75,95,29,1,Baixo
+60-69,F,Hipertensão,145,100,70,27,1,Moderado
+80+,F,Diabetes tipo 2,105,75,160,33,5,Alto
+18-29,F,Diabetes tipo 2,115,80,160,28,0,Moderado
+60-69,F,Asma,135,75,115,26,0,Baixo
+70-79,M,Diabetes tipo 2,100,75,115,28,2,Alto
+80+,F,Hipertensão,125,75,105,29,1,Moderado
+40-49,F,Diabetes tipo 2,100,80,145,28,0,Baixo
+18-29,F,Hipertensão,170,110,85,27,0,Moderado
+30-39,F,Nenhum,110,70,75,24,0,Baixo
+70-79,M,Hipertensão,135,85,100,27,2,Alto
+80+,F,Nenhum,110,70,105,22,0,Baixo
+60-69,F,Diabetes tipo 2,105,70,180,37,1,Alto
+18-29,F,Nenhum,115,85,100,31,1,Baixo
+18-29,M,Nenhum,140,70,80,23,0,Baixo
+50-59,M,Nenhum,130,70,80,27,1,Baixo
+60-69,F,Asma,105,65,80,27,1,Moderado
+18-29,F,Nenhum,120,70,100,25,1,Baixo
+60-69,F,Diabetes tipo 2,105,65,110,20,4,Alto
+50-59,F,Asma,95,80,105,20,1,Baixo
+18-29,M,Nenhum,125,95,90,22,0,Baixo
+18-29,M,Diabetes tipo 2,125,70,140,21,1,Moderado
+50-59,M,Nenhum,125,65,90,31,0,Baixo
+70-79,F,Nenhum,110,80,100,26,0,Baixo
+70-79,F,Diabetes tipo 2,115,70,130,28,1,Moderado
+40-49,F,Hipotireoidismo,120,85,90,16,1,Baixo
+30-39,F,Nenhum,120,75,95,18,0,Baixo
+80+,M,Hipertensão,140,85,95,31,2,Alto
+50-59,F,Nenhum,100,75,85,33,0,Baixo
+40-49,F,Hipertensão,135,95,95,26,0,Baixo
+40-49,M,Diabetes tipo 2,125,75,150,29,2,Moderado
+18-29,F,Diabetes tipo 2,105,70,140,30,0,Baixo
+30-39,F,Diabetes tipo 2,120,75,150,27,1,Moderado
+50-59,F,Nenhum,120,65,80,30,1,Baixo
+80+,F,Diabetes tipo 2,120,80,160,31,3,Alto
+70-79,F,Diabetes tipo 2,125,60,135,26,1,Alto
+70-79,F,Diabetes tipo 2,110,70,160,36,1,Alto
+50-59,F,Nenhum,100,80,90,25,0,Baixo
+18-29,F,Hipertensão,135,85,85,32,2,Alto
+40-49,F,Hipertensão,160,100,105,28,0,Baixo
+80+,M,Nenhum,110,75,95,31,0,Alto
+18-29,F,Nenhum,110,85,80,26,0,Baixo
+80+,M,Hipertensão,115,90,115,29,0,Alto
+60-69,M,Diabetes tipo 2,130,80,125,24,2,Alto
+30-39,F,Nenhum,125,80,105,23,0,Baixo
+70-79,M,Asma,125,80,80,25,1,Moderado
+70-79,F,Hipertensão,150,90,100,28,5,Alto
+18-29,F,Diabetes tipo 2,120,65,155,34,2,Alto
+18-29,F,Hipertensão,135,90,90,26,0,Moderado
+60-69,F,Hipertensão,140,95,90,23,0,Moderado
+80+,F,Diabetes tipo 2,110,85,140,21,2,Alto
+18-29,F,Hipotireoidismo,140,70,100,18,0,Baixo
+60-69,M,Hipertensão,140,80,85,28,3,Moderado
+18-29,F,Hipertensão,130,90,85,25,0,Baixo
+60-69,M,Diabetes tipo 2,120,75,135,26,5,Alto
+60-69,M,Diabetes tipo 2,105,60,170,25,2,Moderado
+18-29,M,Nenhum,130,80,100,25,0,Baixo
+60-69,F,Hipertensão,140,70,95,29,1,Alto
+80+,M,Hipertensão,140,75,85,29,4,Alto
+80+,M,Hipotireoidismo,125,85,110,15,0,Baixo
+18-29,M,Hipertensão,145,100,85,30,0,Alto
+30-39,F,Hipertensão,130,85,80,30,0,Baixo
+30-39,M,Hipotireoidismo,115,75,70,32,0,Baixo
+50-59,M,Hipertensão,140,85,85,35,4,Alto
+18-29,F,Nenhum,110,90,75,20,0,Baixo
+70-79,F,Nenhum,110,70,90,24,1,Moderado
+70-79,F,Nenhum,130,70,100,19,0,Baixo
+70-79,M,Nenhum,115,85,90,31,0,Moderado
+30-39,F,Hipertensão,135,85,90,28,0,Moderado
+18-29,F,Diabetes tipo 2,110,80,130,26,1,Moderado
+80+,M,Diabetes tipo 2,125,65,170,28,5,Alto
+30-39,F,Nenhum,120,75,110,30,0,Baixo
+60-69,F,Hipertensão,150,85,90,34,3,Alto
+80+,M,Nenhum,110,70,100,30,0,Baixo
+18-29,M,Hipotireoidismo,120,80,70,27,0,Baixo
+18-29,M,Nenhum,110,75,100,24,1,Baixo
+18-29,M,Diabetes tipo 2,110,75,145,31,3,Alto
+18-29,F,Nenhum,125,70,100,28,0,Baixo
+18-29,M,Diabetes tipo 2,125,75,140,28,1,Baixo
+70-79,M,Hipertensão,135,95,100,23,3,Alto
+60-69,F,Diabetes tipo 2,105,80,135,33,4,Alto
+80+,F,Nenhum,115,55,95,32,0,Moderado
+70-79,F,Hipotireoidismo,130,70,105,22,1,Moderado
+80+,F,Hipertensão,115,90,90,29,0,Alto
+30-39,F,Diabetes tipo 2,120,75,155,30,1,Baixo
+30-39,F,Asma,100,80,85,27,0,Baixo
+70-79,M,Hipotireoidismo,110,75,100,23,1,Moderado
+30-39,F,Nenhum,110,75,85,32,0,Baixo
+18-29,M,Nenhum,110,70,90,27,0,Baixo
+60-69,M,Nenhum,110,75,85,27,0,Moderado
+70-79,M,Nenhum,115,85,100,32,5,Alto
+80+,M,Hipertensão,120,80,100,27,3,Alto
+80+,F,Hipotireoidismo,100,75,90,25,1,Moderado
+18-29,M,Hipotireoidismo,125,75,85,20,0,Baixo
+70-79,F,Hipertensão,150,100,95,27,3,Alto
+70-79,M,Diabetes tipo 2,125,75,165,20,2,Alto
+60-69,F,Asma,100,80,95,28,3,Moderado
+70-79,F,Hipotireoidismo,120,85,85,27,4,Alto
+70-79,M,Nenhum,120,75,120,24,1,Moderado
+50-59,F,Hipertensão,125,85,100,28,0,Moderado
+18-29,M,Asma,115,75,90,28,1,Baixo
+50-59,F,Nenhum,115,75,105,20,1,Baixo
+30-39,F,Hipertensão,155,95,70,26,1,Moderado
+18-29,M,Hipotireoidismo,135,75,60,28,0,Baixo
+18-29,M,Hipotireoidismo,100,75,85,18,0,Baixo
+60-69,F,Hipotireoidismo,140,65,80,28,1,Baixo
+50-59,F,Diabetes tipo 2,105,70,175,21,0,Baixo
+50-59,F,Nenhum,125,90,95,24,1,Baixo
+70-79,M,Nenhum,125,75,105,20,0,Baixo
+50-59,M,Hipertensão,125,80,80,33,0,Moderado
+60-69,F,Hipertensão,135,95,95,22,0,Baixo
+18-29,F,Hipertensão,135,80,90,19,1,Moderado
+70-79,F,Diabetes tipo 2,120,80,135,27,4,Alto
+50-59,F,Hipertensão,135,85,85,26,0,Moderado
+18-29,M,Diabetes tipo 2,125,75,160,22,0,Moderado
+70-79,M,Nenhum,115,75,95,27,1,Baixo
+70-79,F,Nenhum,115,65,110,17,0,Baixo
+18-29,M,Nenhum,125,75,80,21,0,Baixo
+30-39,F,Nenhum,120,75,95,23,0,Baixo
+18-29,F,Asma,120,90,85,28,1,Baixo
+30-39,F,Hipertensão,135,95,85,32,1,Moderado
+18-29,F,Nenhum,105,60,95,29,0,Baixo
+60-69,F,Diabetes tipo 2,110,75,155,30,3,Alto
+50-59,M,Hipertensão,140,110,65,18,0,Moderado
+80+,M,Nenhum,125,80,65,27,2,Moderado
+70-79,F,Nenhum,125,70,105,31,4,Alto
+60-69,M,Nenhum,115,80,105,30,3,Moderado
+50-59,M,Diabetes tipo 2,130,70,185,29,3,Alto
+18-29,M,Nenhum,130,65,85,20,0,Baixo
+18-29,M,Nenhum,115,75,75,23,0,Baixo
+60-69,F,Nenhum,105,75,90,33,0,Baixo
+18-29,M,Hipertensão,165,75,85,22,2,Moderado
+18-29,M,Nenhum,115,65,75,20,0,Baixo
+30-39,M,Asma,115,75,105,29,0,Baixo
+80+,F,Nenhum,110,70,120,23,0,Baixo
+50-59,F,Diabetes tipo 2,105,80,165,24,0,Moderado
+60-69,F,Hipertensão,115,85,95,34,2,Alto
+40-49,F,Hipertensão,150,95,80,26,2,Moderado
+30-39,F,Nenhum,105,65,105,24,0,Baixo
+40-49,F,Asma,145,85,90,20,1,Baixo
+18-29,M,Asma,105,65,85,33,2,Alto
+70-79,F,Nenhum,100,65,100,25,0,Baixo
+30-39,M,Nenhum,120,80,85,31,0,Baixo
+40-49,F,Hipotireoidismo,130,85,90,29,0,Baixo
+80+,M,Hipertensão,155,90,85,27,4,Alto
+60-69,F,Nenhum,120,80,105,23,0,Baixo
+50-59,M,Nenhum,95,75,90,31,0,Baixo
+50-59,F,Diabetes tipo 2,110,70,155,34,2,Moderado
+70-79,F,Diabetes tipo 2,105,70,150,22,1,Moderado
+30-39,F,Hipertensão,115,80,90,29,1,Moderado
+60-69,M,Hipotireoidismo,115,65,80,24,1,Baixo
+80+,F,Hipertensão,115,95,105,20,3,Alto
+50-59,M,Nenhum,100,65,85,26,0,Baixo
+50-59,M,Hipertensão,140,85,85,18,0,Moderado
+18-29,F,Nenhum,105,65,90,23,0,Baixo
+30-39,F,Nenhum,120,75,90,22,0,Baixo
+80+,F,Nenhum,120,70,80,23,0,Baixo
+50-59,F,Nenhum,125,85,90,25,0,Baixo
+30-39,F,Diabetes tipo 2,120,75,155,23,2,Moderado
+40-49,F,Nenhum,125,85,85,31,0,Baixo
+50-59,M,Hipertensão,145,85,90,31,0,Moderado
+50-59,F,Diabetes tipo 2,120,75,125,32,0,Moderado
+60-69,F,Diabetes tipo 2,120,70,140,26,0,Moderado
+30-39,M,Diabetes tipo 2,115,70,115,29,0,Baixo
+60-69,M,Asma,110,75,95,32,0,Moderado
+40-49,F,Diabetes tipo 2,110,70,165,24,0,Moderado
+80+,F,Nenhum,105,65,85,24,0,Baixo
+18-29,F,Hipertensão,135,85,85,31,0,Moderado
+18-29,M,Diabetes tipo 2,115,60,125,22,0,Moderado
+50-59,M,Nenhum,110,70,100,28,0,Baixo
+50-59,F,Nenhum,110,80,90,27,0,Baixo
+60-69,F,Nenhum,105,65,85,30,3,Moderado
+40-49,F,Hipertensão,155,80,90,31,3,Moderado
+80+,M,Hipertensão,150,105,85,33,6,Alto
+50-59,F,Nenhum,105,70,80,25,0,Baixo
+18-29,F,Asma,125,75,75,22,1,Baixo
+18-29,F,Hipotireoidismo,110,80,75,33,1,Moderado
+80+,F,Nenhum,100,80,110,19,0,Moderado
+18-29,M,Hipotireoidismo,125,65,80,19,0,Baixo
+80+,F,Nenhum,110,75,100,27,1,Moderado
+30-39,F,Hipotireoidismo,110,65,80,32,1,Moderado
+18-29,M,Hipotireoidismo,115,90,95,26,1,Baixo
+30-39,M,Nenhum,125,65,80,29,1,Baixo
+60-69,F,Diabetes tipo 2,115,70,130,22,0,Alto
+40-49,F,Hipotireoidismo,105,70,90,23,1,Baixo
+70-79,M,Hipotireoidismo,120,65,120,18,0,Baixo
+60-69,F,Hipotireoidismo,110,85,100,28,2,Moderado
+40-49,M,Hipertensão,160,105,85,20,1,Moderado
+60-69,M,Nenhum,115,70,100,20,0,Moderado
+80+,M,Asma,95,65,120,27,2,Moderado
+40-49,F,Diabetes tipo 2,120,60,115,33,4,Alto
+18-29,M,Diabetes tipo 2,135,75,130,25,0,Baixo
+40-49,M,Hipertensão,145,85,90,27,1,Moderado
+70-79,F,Hipertensão,160,85,90,31,1,Alto
+30-39,M,Nenhum,105,75,85,24,1,Baixo
+80+,M,Diabetes tipo 2,125,80,175,27,4,Alto
+60-69,M,Nenhum,110,75,105,27,0,Baixo
+60-69,F,Diabetes tipo 2,115,75,150,34,0,Alto
+40-49,F,Asma,100,65,90,29,0,Baixo
+80+,M,Hipertensão,125,85,105,30,2,Alto
+18-29,F,Hipertensão,125,80,85,25,0,Moderado
+30-39,M,Nenhum,125,80,80,28,0,Baixo
+40-49,M,Hipotireoidismo,125,80,80,25,0,Baixo
+50-59,M,Diabetes tipo 2,120,65,135,29,0,Baixo
+50-59,F,Nenhum,100,65,85,24,1,Baixo
+18-29,M,Nenhum,110,70,90,22,0,Baixo
+30-39,F,Nenhum,110,70,75,29,1,Baixo
+18-29,M,Hipertensão,145,90,95,24,1,Moderado
+50-59,F,Hipotireoidismo,125,80,95,21,0,Baixo
+40-49,F,Diabetes tipo 2,125,85,135,28,0,Baixo
+50-59,M,Nenhum,105,80,105,32,0,Baixo
+60-69,M,Asma,90,75,90,29,1,Baixo
+60-69,M,Nenhum,95,85,85,18,1,Baixo
+50-59,F,Asma,130,80,85,30,0,Baixo
+60-69,M,Nenhum,110,75,90,30,0,Moderado
+60-69,M,Diabetes tipo 2,110,85,160,20,4,Alto
+60-69,M,Hipotireoidismo,130,75,85,15,0,Baixo
+60-69,M,Nenhum,130,75,75,25,1,Moderado
+40-49,F,Diabetes tipo 2,115,70,150,30,0,Moderado
+30-39,F,Hipotireoidismo,110,80,95,31,2,Moderado
+70-79,M,Nenhum,115,85,95,22,0,Baixo
+40-49,M,Nenhum,115,75,100,32,0,Moderado
+50-59,F,Diabetes tipo 2,130,85,175,15,1,Moderado
+30-39,F,Nenhum,120,60,95,24,0,Baixo
+40-49,M,Nenhum,120,75,105,23,0,Baixo
+50-59,M,Hipertensão,155,100,100,32,2,Alto
+60-69,F,Diabetes tipo 2,105,70,145,33,2,Alto
+50-59,M,Nenhum,120,90,110,29,0,Baixo
+40-49,M,Nenhum,110,75,100,20,1,Baixo
+80+,F,Asma,90,70,105,28,3,Alto
+50-59,F,Hipertensão,125,85,90,24,0,Baixo

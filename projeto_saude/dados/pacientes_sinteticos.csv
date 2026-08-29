@@ -1,0 +1,1001 @@
+﻿id_sintetico,idade,sexo,diagnostico,pressao_sistolica,pressao_diastolica,glicemia,imc,qtd_internacoes,classificacao_risco
+1,24,M,Nenhum,104.8,67.9,88.9,18.3,0,Baixo
+2,73,M,Hipertensão,144.5,91.0,85.8,23.3,4,Alto
+3,65,M,Nenhum,103.0,75.8,101.6,26.3,1,Moderado
+4,49,M,Nenhum,112.1,76.3,76.9,27.7,0,Baixo
+5,49,F,Diabetes tipo 2,109.1,88.7,155.9,24.6,0,Baixo
+6,79,M,Nenhum,116.6,66.1,91.8,16.2,0,Moderado
+7,24,M,Hipotireoidismo,108.6,74.8,73.6,18.8,0,Baixo
+8,68,M,Nenhum,112.3,77.1,110.1,33.2,2,Moderado
+9,32,M,Diabetes tipo 2,112.6,69.8,150.0,20.5,0,Moderado
+10,24,M,Hipertensão,131.2,84.6,106.7,37.5,1,Moderado
+11,55,F,Diabetes tipo 2,119.9,63.8,164.0,26.3,2,Moderado
+12,88,M,Hipertensão,136.4,95.2,89.2,26.6,3,Alto
+13,70,F,Hipertensão,132.8,77.8,93.7,29.9,1,Moderado
+14,72,F,Hipotireoidismo,110.7,89.2,96.0,21.7,1,Moderado
+15,69,M,Nenhum,123.0,74.8,109.6,31.4,2,Moderado
+16,74,M,Nenhum,112.6,82.2,99.5,25.3,1,Moderado
+17,54,F,Diabetes tipo 2,111.9,74.6,170.2,27.2,1,Moderado
+18,27,F,Asma,116.0,74.8,86.1,23.9,1,Baixo
+19,78,F,Nenhum,132.0,70.9,95.2,27.6,0,Baixo
+20,50,F,Hipertensão,122.6,86.0,104.5,32.1,1,Moderado
+21,54,F,Asma,122.7,77.2,92.1,24.5,0,Baixo
+22,44,F,Diabetes tipo 2,96.1,69.5,150.1,35.0,0,Moderado
+23,31,M,Hipotireoidismo,117.2,74.1,83.0,22.6,0,Baixo
+24,84,M,Hipertensão,160.2,87.2,91.1,27.0,3,Alto
+25,74,M,Diabetes tipo 2,119.9,91.1,112.3,28.8,0,Moderado
+26,64,F,Nenhum,116.7,74.4,86.1,20.7,0,Baixo
+27,46,F,Hipotireoidismo,109.4,85.8,105.9,25.9,0,Baixo
+28,77,F,Nenhum,115.3,73.6,93.5,25.0,0,Baixo
+29,57,M,Diabetes tipo 2,112.5,76.8,136.3,25.0,1,Moderado
+30,49,F,Hipertensão,127.3,72.0,66.6,30.2,1,Alto
+31,50,F,Hipertensão,133.4,85.5,97.2,31.2,2,Alto
+32,34,F,Diabetes tipo 2,117.0,76.5,125.8,26.4,0,Moderado
+33,24,M,Hipertensão,135.0,99.2,82.8,23.2,0,Moderado
+34,57,F,Hipotireoidismo,106.9,76.6,94.4,24.6,0,Baixo
+35,81,F,Hipertensão,120.9,100.0,91.2,24.3,1,Alto
+36,22,M,Diabetes tipo 2,118.9,79.5,113.1,30.0,1,Alto
+37,79,M,Nenhum,120.5,86.4,105.1,22.4,0,Baixo
+38,77,F,Hipertensão,140.5,84.3,98.0,37.7,1,Alto
+39,37,F,Hipertensão,145.5,101.0,86.4,25.2,1,Moderado
+40,63,M,Nenhum,115.9,71.6,83.8,22.7,2,Baixo
+41,29,M,Nenhum,118.9,69.6,73.7,23.0,0,Baixo
+42,72,M,Diabetes tipo 2,118.0,66.5,147.4,32.9,2,Alto
+43,68,F,Diabetes tipo 2,114.1,91.3,149.7,19.5,6,Alto
+44,43,F,Diabetes tipo 2,109.7,80.7,148.6,32.6,6,Alto
+45,22,M,Nenhum,137.1,72.7,73.5,26.0,1,Baixo
+46,87,F,Nenhum,110.5,83.7,99.3,26.3,0,Moderado
+47,50,F,Nenhum,108.3,79.8,91.0,29.9,0,Baixo
+48,82,M,Diabetes tipo 2,119.3,88.8,149.2,33.1,2,Alto
+49,66,M,Asma,117.5,64.2,100.0,23.2,0,Moderado
+50,74,F,Nenhum,101.0,73.1,65.2,25.8,0,Baixo
+51,72,M,Diabetes tipo 2,126.2,71.8,165.9,26.0,1,Alto
+52,32,F,Nenhum,114.1,61.2,78.8,25.4,0,Baixo
+53,44,M,Nenhum,103.9,82.4,76.4,21.8,0,Baixo
+54,51,M,Nenhum,126.9,73.1,89.8,24.3,0,Baixo
+55,53,F,Nenhum,121.3,80.2,96.1,18.3,0,Baixo
+56,21,M,Diabetes tipo 2,102.4,91.5,103.9,32.7,2,Alto
+57,57,F,Hipotireoidismo,132.8,72.5,99.6,18.2,0,Baixo
+58,29,M,Nenhum,121.6,72.1,96.0,25.6,0,Baixo
+59,71,F,Hipertensão,150.2,94.5,95.1,24.4,0,Alto
+60,67,F,Diabetes tipo 2,130.9,81.9,142.7,27.6,4,Moderado
+61,84,M,Hipotireoidismo,116.6,71.0,86.8,29.6,1,Moderado
+62,71,M,Diabetes tipo 2,114.7,70.6,182.1,29.5,0,Alto
+63,44,F,Nenhum,108.4,82.4,75.5,29.6,0,Baixo
+64,87,M,Diabetes tipo 2,120.8,77.7,150.6,33.0,2,Alto
+65,47,M,Nenhum,119.8,60.7,89.4,21.9,0,Baixo
+66,41,F,Hipotireoidismo,115.1,66.4,89.2,31.0,0,Moderado
+67,83,M,Nenhum,107.1,85.5,79.4,19.1,0,Moderado
+68,44,M,Diabetes tipo 2,116.3,77.8,135.1,35.2,0,Moderado
+69,23,F,Nenhum,114.3,69.7,93.6,23.0,0,Baixo
+70,51,F,Hipertensão,121.3,84.1,78.3,26.6,2,Moderado
+71,75,M,Asma,100.3,75.1,100.2,27.5,2,Moderado
+72,31,F,Diabetes tipo 2,120.7,80.2,163.9,32.8,1,Moderado
+73,51,M,Hipertensão,117.8,76.8,85.2,30.2,0,Moderado
+74,27,M,Hipotireoidismo,117.1,69.1,96.6,25.9,0,Baixo
+75,67,F,Asma,110.2,76.9,72.0,25.5,0,Moderado
+76,52,F,Nenhum,128.1,74.3,95.3,27.1,0,Baixo
+77,41,M,Hipertensão,132.3,94.3,106.3,34.0,2,Alto
+78,34,F,Hipertensão,150.1,83.4,103.5,33.0,4,Alto
+79,58,F,Diabetes tipo 2,111.0,77.5,145.5,31.2,3,Alto
+80,66,M,Nenhum,116.1,82.6,90.9,28.4,1,Baixo
+81,85,M,Nenhum,122.4,78.4,90.4,18.5,0,Baixo
+82,49,M,Hipotireoidismo,110.4,76.0,88.3,24.5,0,Baixo
+83,29,M,Hipotireoidismo,125.0,74.3,93.8,19.5,1,Baixo
+84,77,M,Asma,105.1,69.2,87.5,26.1,0,Moderado
+85,63,F,Hipotireoidismo,117.9,74.5,101.0,31.6,3,Alto
+86,68,M,Diabetes tipo 2,124.2,83.8,172.4,27.2,2,Alto
+87,25,M,Diabetes tipo 2,121.6,74.2,159.4,31.0,2,Alto
+88,40,M,Diabetes tipo 2,134.2,68.8,99.3,28.7,0,Moderado
+89,73,M,Hipertensão,123.7,76.3,81.5,18.7,2,Alto
+90,77,F,Hipertensão,120.4,79.9,103.3,26.1,3,Alto
+91,49,M,Nenhum,105.1,72.4,90.8,26.5,1,Baixo
+92,75,F,Diabetes tipo 2,121.6,78.4,167.6,18.1,4,Alto
+93,78,M,Nenhum,120.0,78.7,90.4,21.1,0,Baixo
+94,45,F,Nenhum,116.0,81.2,99.1,29.4,0,Baixo
+95,82,F,Hipertensão,129.1,101.0,94.7,30.5,2,Alto
+96,38,F,Hipertensão,153.0,95.6,82.4,26.9,1,Moderado
+97,35,M,Nenhum,102.8,68.5,85.2,28.5,0,Baixo
+98,67,M,Asma,126.6,68.7,82.1,25.9,0,Baixo
+99,63,F,Asma,143.6,74.5,113.3,27.2,0,Moderado
+100,28,F,Nenhum,118.7,71.8,87.2,23.7,0,Baixo
+101,77,F,Nenhum,120.8,67.0,102.0,25.5,3,Moderado
+102,32,F,Nenhum,110.1,71.9,83.4,22.5,1,Baixo
+103,75,M,Diabetes tipo 2,96.9,71.7,131.1,31.6,3,Alto
+104,18,F,Asma,109.0,70.3,84.4,31.1,0,Baixo
+105,75,F,Nenhum,104.1,72.8,106.3,30.5,1,Alto
+106,74,F,Diabetes tipo 2,100.5,83.2,160.8,28.2,3,Alto
+107,74,F,Nenhum,132.2,76.4,86.4,21.2,1,Baixo
+108,65,M,Nenhum,117.7,92.3,95.3,30.1,0,Baixo
+109,51,M,Hipotireoidismo,118.8,76.2,96.6,27.2,0,Baixo
+110,68,F,Nenhum,111.9,73.0,110.6,26.3,1,Baixo
+111,37,M,Nenhum,113.3,75.0,93.1,22.5,0,Baixo
+112,74,F,Hipertensão,144.7,80.3,101.5,31.5,1,Alto
+113,58,F,Diabetes tipo 2,114.7,78.0,122.4,26.7,1,Baixo
+114,51,F,Hipotireoidismo,120.3,89.5,80.1,27.5,0,Baixo
+115,54,F,Hipotireoidismo,113.0,69.1,82.5,30.5,1,Alto
+116,58,F,Nenhum,111.6,81.0,81.9,31.5,0,Baixo
+117,20,M,Nenhum,100.9,76.5,73.7,27.8,0,Baixo
+118,28,M,Diabetes tipo 2,95.2,64.0,145.7,23.5,0,Moderado
+119,35,M,Nenhum,112.4,80.4,92.2,25.8,1,Baixo
+120,26,F,Asma,115.6,83.9,88.7,33.6,0,Baixo
+121,49,F,Diabetes tipo 2,102.1,69.0,86.2,23.7,0,Baixo
+122,66,F,Nenhum,114.7,74.9,114.5,24.8,2,Moderado
+123,65,F,Asma,115.5,62.9,84.8,30.7,1,Alto
+124,51,F,Nenhum,93.4,66.2,112.2,27.5,0,Baixo
+125,79,M,Hipertensão,127.8,91.6,81.4,36.6,1,Alto
+126,58,M,Hipertensão,150.7,79.8,84.6,23.6,1,Baixo
+127,23,M,Hipertensão,149.0,76.7,65.4,23.5,1,Moderado
+128,73,M,Diabetes tipo 2,103.5,76.6,151.5,32.3,4,Alto
+129,59,M,Diabetes tipo 2,116.6,71.3,150.0,27.0,0,Moderado
+130,63,M,Hipotireoidismo,125.2,71.7,82.7,24.2,1,Baixo
+131,58,F,Hipotireoidismo,122.8,80.2,79.0,24.7,0,Baixo
+132,57,M,Hipertensão,134.1,75.0,100.3,31.0,1,Alto
+133,24,M,Nenhum,110.3,68.7,94.7,27.5,0,Baixo
+134,58,M,Diabetes tipo 2,108.7,76.1,178.4,26.4,0,Baixo
+135,75,M,Hipotireoidismo,119.7,81.8,88.4,23.4,0,Moderado
+136,39,F,Nenhum,117.0,83.7,92.0,29.9,0,Baixo
+137,61,M,Hipertensão,146.7,84.3,80.3,44.5,5,Alto
+138,20,F,Hipertensão,136.7,88.2,83.6,32.9,5,Alto
+139,43,M,Nenhum,123.2,69.5,85.3,25.4,0,Baixo
+140,49,M,Diabetes tipo 2,115.9,87.8,156.0,21.7,0,Moderado
+141,88,M,Nenhum,122.8,67.1,107.4,22.5,0,Moderado
+142,33,F,Diabetes tipo 2,123.7,84.3,134.2,26.6,0,Moderado
+143,37,M,Asma,107.0,70.4,81.1,22.9,0,Baixo
+144,47,M,Asma,96.9,89.1,101.0,24.9,1,Moderado
+145,89,F,Hipertensão,154.1,87.1,96.9,35.0,0,Alto
+146,79,F,Nenhum,117.6,67.9,92.6,30.0,1,Baixo
+147,20,M,Diabetes tipo 2,97.9,71.3,115.0,28.3,0,Baixo
+148,34,M,Asma,107.9,80.5,83.5,20.2,0,Baixo
+149,77,M,Hipertensão,158.8,93.8,113.0,33.7,4,Alto
+150,22,M,Asma,112.2,74.5,90.4,24.8,0,Baixo
+151,79,F,Nenhum,109.9,75.3,97.6,18.1,0,Baixo
+152,38,M,Asma,129.0,80.3,87.1,27.8,1,Baixo
+153,84,F,Nenhum,104.5,75.9,121.1,29.1,0,Baixo
+154,39,M,Nenhum,107.0,65.9,102.9,15.3,1,Baixo
+155,49,F,Hipertensão,142.3,83.7,84.1,24.5,0,Moderado
+156,65,M,Nenhum,118.9,76.6,91.0,24.6,0,Moderado
+157,27,F,Nenhum,120.0,83.5,85.9,27.9,0,Baixo
+158,58,M,Nenhum,124.1,86.3,94.2,22.9,1,Baixo
+159,54,F,Hipertensão,145.3,95.6,85.1,24.1,0,Baixo
+160,74,F,Diabetes tipo 2,119.9,77.0,132.1,32.8,2,Alto
+161,89,M,Nenhum,112.4,80.2,111.9,23.1,1,Baixo
+162,65,F,Diabetes tipo 2,115.6,70.3,138.5,27.5,2,Alto
+163,47,M,Asma,116.1,73.9,79.8,20.6,0,Baixo
+164,47,M,Nenhum,117.2,69.2,86.2,19.6,1,Baixo
+165,48,M,Nenhum,122.7,66.3,86.8,28.0,0,Baixo
+166,76,F,Asma,120.6,77.3,115.4,26.0,0,Moderado
+167,41,F,Asma,115.4,76.3,100.2,28.7,0,Baixo
+168,30,F,Hipertensão,125.9,90.5,97.9,24.6,0,Baixo
+169,42,M,Asma,115.7,78.8,87.7,21.8,0,Baixo
+170,19,M,Nenhum,114.7,76.7,84.0,30.4,0,Baixo
+171,25,M,Nenhum,116.9,78.9,73.2,18.9,0,Baixo
+172,24,M,Diabetes tipo 2,137.1,74.7,144.5,31.9,0,Moderado
+173,73,F,Nenhum,109.8,77.9,99.9,30.3,3,Moderado
+174,70,F,Diabetes tipo 2,119.2,69.9,150.8,32.6,4,Alto
+175,68,F,Hipertensão,144.8,89.9,92.1,27.2,2,Alto
+176,51,F,Diabetes tipo 2,116.0,79.7,145.5,24.9,0,Moderado
+177,69,F,Hipertensão,158.8,82.4,96.1,25.5,2,Moderado
+178,29,F,Nenhum,111.2,75.4,97.3,19.8,0,Baixo
+179,82,F,Nenhum,118.2,70.6,81.6,21.2,0,Baixo
+180,54,F,Nenhum,107.0,71.3,99.5,27.6,0,Baixo
+181,85,M,Diabetes tipo 2,111.5,67.1,189.2,30.2,6,Alto
+182,28,M,Nenhum,117.5,83.9,77.6,20.8,0,Baixo
+183,53,M,Nenhum,123.5,82.5,71.1,27.7,0,Baixo
+184,68,F,Nenhum,118.2,78.8,92.8,26.8,0,Baixo
+185,53,F,Nenhum,127.6,88.8,106.4,31.0,0,Baixo
+186,50,F,Asma,114.1,73.7,108.2,27.3,0,Baixo
+187,29,F,Nenhum,111.7,96.2,91.9,29.2,0,Baixo
+188,45,M,Hipotireoidismo,142.0,73.4,110.4,26.9,2,Baixo
+189,35,M,Nenhum,118.9,76.8,88.8,28.9,1,Baixo
+190,39,F,Diabetes tipo 2,107.8,72.2,151.2,25.0,0,Moderado
+191,67,F,Hipertensão,122.0,90.1,89.5,28.7,0,Moderado
+192,63,F,Nenhum,105.6,80.8,88.3,24.8,0,Baixo
+193,61,F,Asma,124.4,74.2,86.4,24.0,4,Alto
+194,44,M,Hipotireoidismo,111.4,87.4,70.0,26.8,0,Baixo
+195,87,M,Asma,116.3,76.7,109.9,27.5,3,Moderado
+196,24,M,Nenhum,114.4,76.9,81.2,26.6,0,Baixo
+197,42,M,Nenhum,122.3,68.6,82.3,24.3,0,Baixo
+198,26,M,Diabetes tipo 2,106.5,77.9,149.2,22.9,1,Moderado
+199,42,M,Nenhum,104.2,74.1,88.3,29.4,1,Baixo
+200,87,M,Diabetes tipo 2,117.2,70.7,196.7,30.3,2,Alto
+201,44,M,Hipertensão,142.7,78.1,111.5,24.3,1,Moderado
+202,83,F,Hipertensão,145.5,103.1,79.8,27.4,1,Alto
+203,53,M,Asma,106.9,73.2,88.4,18.0,0,Baixo
+204,68,M,Diabetes tipo 2,121.8,64.8,140.9,26.9,0,Moderado
+205,50,M,Nenhum,107.6,70.1,101.4,24.2,1,Baixo
+206,37,M,Nenhum,109.8,74.6,92.4,22.7,0,Baixo
+207,73,M,Diabetes tipo 2,105.6,78.8,146.9,36.6,2,Alto
+208,87,M,Hipertensão,156.2,97.3,97.8,25.8,0,Alto
+209,36,F,Nenhum,121.3,79.7,84.6,27.8,0,Baixo
+210,74,M,Hipertensão,144.7,78.9,111.2,40.1,3,Alto
+211,36,M,Diabetes tipo 2,127.5,77.4,161.5,33.2,0,Moderado
+212,69,M,Asma,143.1,68.9,101.0,24.9,0,Baixo
+213,74,F,Hipertensão,116.8,78.3,68.4,22.7,0,Moderado
+214,50,M,Nenhum,107.6,68.6,90.8,19.6,0,Baixo
+215,71,F,Nenhum,108.8,66.7,115.5,23.4,0,Baixo
+216,37,F,Hipertensão,137.9,97.4,102.8,23.1,1,Moderado
+217,23,M,Nenhum,104.2,79.8,69.0,22.1,0,Baixo
+218,24,M,Hipertensão,137.4,92.1,84.5,27.1,0,Baixo
+219,50,M,Diabetes tipo 2,102.8,75.3,127.2,26.6,1,Baixo
+220,82,F,Nenhum,118.4,80.4,113.4,26.9,0,Moderado
+221,27,M,Nenhum,115.5,62.7,90.5,20.0,1,Baixo
+222,50,M,Nenhum,119.8,81.0,83.8,22.3,0,Baixo
+223,68,M,Asma,120.1,76.2,94.5,24.4,0,Baixo
+224,32,M,Diabetes tipo 2,121.0,79.4,127.0,26.5,1,Moderado
+225,69,F,Nenhum,111.3,77.7,83.5,32.3,0,Baixo
+226,40,M,Asma,136.2,68.1,90.4,25.9,0,Baixo
+227,76,F,Hipertensão,142.8,76.2,103.9,20.6,6,Alto
+228,59,M,Hipertensão,112.9,81.8,73.4,31.8,3,Alto
+229,57,F,Hipotireoidismo,105.0,79.0,88.7,27.2,0,Baixo
+230,30,F,Nenhum,97.6,79.8,98.6,24.5,0,Baixo
+231,51,M,Nenhum,115.2,65.4,77.1,20.1,0,Baixo
+232,79,M,Hipertensão,141.2,82.6,98.1,36.2,4,Alto
+233,19,M,Nenhum,110.3,69.9,87.5,20.7,0,Baixo
+234,72,M,Diabetes tipo 2,135.1,72.5,153.3,30.1,3,Alto
+235,53,M,Nenhum,120.5,65.5,89.6,25.8,2,Baixo
+236,69,F,Nenhum,122.3,65.0,92.6,27.4,0,Baixo
+237,65,F,Nenhum,105.7,69.2,102.3,31.8,5,Alto
+238,49,F,Hipertensão,133.5,88.9,78.1,27.6,0,Baixo
+239,40,F,Nenhum,115.4,66.7,87.8,22.8,0,Baixo
+240,63,F,Nenhum,116.7,74.2,88.9,29.4,0,Baixo
+241,28,M,Asma,96.4,82.4,86.8,22.5,0,Baixo
+242,60,M,Nenhum,113.2,65.9,101.5,25.7,1,Baixo
+243,24,M,Nenhum,115.1,73.6,93.1,19.8,0,Baixo
+244,64,F,Nenhum,112.8,82.2,86.1,20.9,0,Baixo
+245,63,M,Nenhum,106.9,72.1,94.8,25.2,1,Baixo
+246,24,M,Nenhum,109.6,71.0,102.5,26.5,0,Baixo
+247,72,M,Diabetes tipo 2,113.2,83.1,152.6,19.3,6,Alto
+248,47,F,Nenhum,115.9,72.9,92.5,27.0,0,Baixo
+249,74,F,Asma,121.0,82.7,93.2,21.7,0,Baixo
+250,20,M,Hipotireoidismo,125.8,78.0,86.4,30.1,1,Moderado
+251,30,F,Nenhum,112.1,72.6,72.2,23.6,1,Baixo
+252,53,F,Nenhum,110.4,78.4,106.1,20.5,0,Baixo
+253,31,F,Nenhum,119.4,77.2,80.9,25.3,0,Baixo
+254,41,M,Diabetes tipo 2,121.1,82.1,145.0,17.8,2,Moderado
+255,65,M,Nenhum,110.7,71.2,87.5,30.1,2,Moderado
+256,28,F,Asma,122.9,75.3,81.9,25.0,1,Baixo
+257,66,F,Diabetes tipo 2,124.8,74.6,144.1,26.1,1,Moderado
+258,25,M,Asma,127.9,79.9,97.7,27.4,0,Baixo
+259,30,M,Hipertensão,157.0,78.1,90.6,26.4,1,Moderado
+260,60,M,Hipotireoidismo,106.3,82.1,100.6,19.8,1,Moderado
+261,75,F,Nenhum,115.1,78.3,92.4,26.6,0,Baixo
+262,30,M,Hipertensão,147.4,74.7,88.4,20.8,0,Moderado
+263,39,F,Nenhum,114.0,83.5,83.2,20.6,0,Baixo
+264,84,M,Hipotireoidismo,108.5,90.6,105.6,28.3,0,Moderado
+265,89,F,Hipertensão,122.8,96.4,90.4,29.1,6,Alto
+266,59,F,Asma,115.9,85.0,107.7,20.0,1,Moderado
+267,50,F,Nenhum,107.3,75.6,88.3,22.5,0,Baixo
+268,42,F,Hipotireoidismo,115.9,63.4,90.5,21.4,0,Baixo
+269,62,M,Hipertensão,124.9,75.7,100.9,33.3,0,Alto
+270,60,F,Hipertensão,124.9,92.8,93.2,31.2,3,Alto
+271,39,F,Hipotireoidismo,117.3,70.9,86.9,23.3,1,Baixo
+272,19,F,Nenhum,116.5,68.6,86.5,27.3,1,Baixo
+273,28,M,Nenhum,120.8,74.6,97.1,19.6,2,Baixo
+274,87,M,Hipertensão,157.8,92.8,90.4,23.0,1,Moderado
+275,48,M,Nenhum,117.8,64.8,89.9,25.4,0,Baixo
+276,52,M,Nenhum,119.9,71.9,91.9,26.8,0,Baixo
+277,51,M,Nenhum,104.2,85.6,100.3,24.6,0,Baixo
+278,74,M,Nenhum,102.1,67.5,94.1,26.0,1,Baixo
+279,22,F,Asma,130.8,81.1,105.4,25.3,0,Baixo
+280,23,M,Hipertensão,138.1,81.1,85.9,28.3,1,Moderado
+281,37,M,Nenhum,104.6,78.8,87.2,23.8,0,Baixo
+282,53,M,Hipertensão,140.8,91.2,90.2,27.9,0,Moderado
+283,66,F,Hipertensão,140.5,93.5,80.7,30.4,2,Alto
+284,53,M,Diabetes tipo 2,106.0,81.4,164.1,29.3,1,Moderado
+285,49,F,Hipotireoidismo,112.0,66.9,86.0,25.8,0,Baixo
+286,85,F,Hipotireoidismo,127.3,82.8,108.1,20.3,2,Moderado
+287,29,M,Nenhum,106.9,69.0,88.0,21.0,0,Baixo
+288,59,F,Nenhum,101.1,76.8,88.0,26.6,0,Baixo
+289,57,F,Hipertensão,144.9,92.1,104.8,35.4,1,Moderado
+290,52,M,Hipertensão,146.3,94.6,107.3,28.6,0,Moderado
+291,76,F,Hipertensão,133.6,89.9,108.0,25.4,0,Moderado
+292,37,M,Diabetes tipo 2,99.2,69.1,116.3,28.4,1,Moderado
+293,86,F,Hipertensão,135.6,81.8,91.9,23.1,2,Alto
+294,41,F,Nenhum,114.5,81.1,108.3,30.2,0,Baixo
+295,57,M,Nenhum,126.7,76.3,95.0,25.7,0,Baixo
+296,55,M,Nenhum,104.6,83.0,89.6,22.3,0,Baixo
+297,79,F,Nenhum,114.2,74.7,103.0,24.3,0,Moderado
+298,49,M,Nenhum,121.8,65.2,101.4,22.9,0,Baixo
+299,38,M,Diabetes tipo 2,91.2,81.8,137.5,34.6,1,Alto
+300,19,F,Nenhum,125.3,72.4,89.0,24.2,0,Baixo
+301,44,M,Nenhum,103.2,77.4,99.9,25.6,0,Baixo
+302,77,F,Hipertensão,132.9,84.4,83.9,30.2,2,Alto
+303,18,M,Diabetes tipo 2,117.5,86.5,131.0,26.7,4,Alto
+304,82,M,Nenhum,125.8,68.9,85.2,25.8,1,Moderado
+305,57,M,Asma,120.5,72.6,82.7,26.1,1,Baixo
+306,28,M,Hipotireoidismo,91.2,75.8,82.6,18.8,0,Baixo
+307,39,F,Hipertensão,138.9,83.0,94.6,29.1,2,Moderado
+308,57,F,Diabetes tipo 2,116.4,77.3,161.3,30.6,2,Moderado
+309,40,F,Nenhum,113.1,86.3,83.5,25.5,0,Baixo
+310,25,M,Hipotireoidismo,119.8,71.6,88.3,25.1,0,Baixo
+311,65,M,Nenhum,122.9,77.8,82.3,26.0,0,Baixo
+312,66,F,Hipotireoidismo,121.1,55.8,98.2,30.3,5,Alto
+313,26,M,Hipertensão,139.9,78.7,99.2,23.2,1,Moderado
+314,38,M,Nenhum,96.5,72.8,88.9,23.6,0,Baixo
+315,35,M,Nenhum,110.4,69.3,87.2,27.7,2,Baixo
+316,65,F,Diabetes tipo 2,119.2,82.6,161.0,29.8,3,Moderado
+317,70,M,Hipertensão,122.6,89.1,74.2,29.4,1,Moderado
+318,70,M,Nenhum,121.3,73.8,99.9,36.0,0,Moderado
+319,85,F,Diabetes tipo 2,124.1,72.4,189.7,31.3,4,Alto
+320,73,F,Asma,116.3,61.6,93.7,29.5,1,Moderado
+321,41,F,Hipertensão,107.0,71.7,89.0,29.0,1,Moderado
+322,25,F,Hipertensão,131.8,94.2,95.2,23.7,0,Moderado
+323,62,M,Nenhum,133.9,60.2,109.8,23.7,0,Baixo
+324,83,M,Diabetes tipo 2,109.5,69.6,150.1,27.5,0,Moderado
+325,88,M,Nenhum,95.2,72.2,75.6,26.6,0,Moderado
+326,34,F,Asma,127.4,87.2,94.7,26.6,0,Baixo
+327,35,M,Nenhum,115.1,80.4,115.0,24.1,0,Baixo
+328,20,F,Hipertensão,155.8,79.1,93.2,27.6,0,Baixo
+329,28,M,Nenhum,117.8,84.1,76.7,24.3,1,Baixo
+330,57,F,Nenhum,119.6,69.8,95.4,27.9,1,Baixo
+331,57,F,Diabetes tipo 2,118.6,82.1,142.9,31.7,0,Alto
+332,44,M,Hipertensão,142.7,73.7,102.9,23.9,3,Moderado
+333,40,F,Hipertensão,158.7,91.5,80.4,29.0,1,Moderado
+334,77,M,Hipotireoidismo,124.7,72.2,96.3,22.4,2,Moderado
+335,51,M,Hipotireoidismo,99.2,67.8,83.1,26.9,0,Baixo
+336,76,M,Asma,119.5,73.5,89.9,24.2,0,Moderado
+337,87,M,Nenhum,126.4,76.9,111.9,31.3,3,Alto
+338,40,F,Hipertensão,146.8,84.9,91.0,23.0,0,Moderado
+339,32,M,Asma,110.7,78.9,83.2,25.7,0,Baixo
+340,86,F,Nenhum,126.6,70.9,85.4,27.4,1,Moderado
+341,63,M,Nenhum,124.3,79.3,74.7,21.5,0,Baixo
+342,38,F,Asma,140.7,78.1,77.2,24.7,3,Baixo
+343,62,F,Hipertensão,128.5,86.4,94.4,29.0,0,Moderado
+344,55,M,Hipertensão,145.0,86.4,102.1,24.1,0,Baixo
+345,83,F,Hipotireoidismo,111.9,76.1,90.8,23.2,0,Moderado
+346,36,M,Diabetes tipo 2,110.1,78.9,162.6,32.2,2,Alto
+347,89,M,Hipertensão,137.7,98.2,90.2,23.7,0,Alto
+348,85,M,Nenhum,87.4,81.6,94.4,27.3,0,Baixo
+349,31,M,Hipertensão,132.1,98.6,77.9,29.1,0,Baixo
+350,29,M,Nenhum,118.7,96.6,98.3,19.4,0,Baixo
+351,56,F,Diabetes tipo 2,110.1,78.6,161.8,30.2,3,Alto
+352,21,F,Asma,134.4,78.4,69.5,19.3,0,Baixo
+353,39,F,Nenhum,115.1,79.9,86.4,27.5,0,Baixo
+354,49,M,Nenhum,127.9,67.9,104.0,23.0,0,Baixo
+355,87,F,Asma,117.6,71.9,82.6,25.0,3,Moderado
+356,89,F,Nenhum,123.3,71.5,103.0,19.8,2,Moderado
+357,28,F,Hipertensão,143.0,87.4,100.4,26.9,1,Baixo
+358,82,F,Hipertensão,153.9,87.7,97.1,29.7,1,Alto
+359,24,F,Diabetes tipo 2,115.6,76.0,150.8,24.3,2,Moderado
+360,71,F,Nenhum,120.0,82.6,112.3,22.6,0,Baixo
+361,78,F,Diabetes tipo 2,118.7,81.0,169.9,30.2,2,Alto
+362,82,F,Nenhum,112.1,73.9,95.7,26.9,1,Moderado
+363,34,F,Diabetes tipo 2,119.0,70.3,136.2,17.1,1,Moderado
+364,82,F,Nenhum,137.3,82.9,87.1,33.1,1,Alto
+365,26,M,Hipertensão,155.4,93.4,97.7,25.3,2,Moderado
+366,55,F,Hipertensão,139.9,78.5,78.5,32.4,1,Moderado
+367,51,F,Nenhum,127.6,72.8,89.1,24.4,2,Baixo
+368,40,F,Nenhum,126.4,76.2,91.0,17.6,0,Baixo
+369,19,M,Nenhum,115.1,80.5,81.8,27.7,2,Baixo
+370,73,M,Nenhum,91.2,81.4,97.7,22.7,2,Moderado
+371,42,M,Nenhum,120.2,77.0,115.9,27.2,1,Baixo
+372,65,F,Hipotireoidismo,92.8,79.1,92.5,24.1,2,Moderado
+373,47,F,Hipertensão,157.5,84.2,86.7,29.7,0,Moderado
+374,44,F,Asma,116.7,70.3,100.8,21.9,0,Baixo
+375,81,M,Hipotireoidismo,125.0,73.2,98.5,28.5,3,Moderado
+376,24,M,Nenhum,106.0,75.1,102.0,20.2,0,Baixo
+377,71,M,Diabetes tipo 2,99.5,74.8,188.7,35.3,2,Alto
+378,71,M,Asma,117.6,61.8,92.2,34.0,3,Moderado
+379,45,M,Diabetes tipo 2,114.7,72.2,157.5,33.6,3,Alto
+380,36,M,Hipertensão,138.5,91.8,73.2,34.8,1,Alto
+381,18,M,Hipertensão,135.7,80.8,68.3,23.8,0,Baixo
+382,85,F,Nenhum,142.7,73.3,100.5,29.7,0,Baixo
+383,86,F,Hipertensão,145.5,94.0,83.3,25.9,4,Alto
+384,35,M,Hipotireoidismo,125.5,67.4,101.8,18.8,0,Baixo
+385,20,F,Hipotireoidismo,123.4,63.6,87.3,31.0,2,Baixo
+386,26,F,Nenhum,129.8,72.6,85.5,29.5,1,Baixo
+387,22,M,Diabetes tipo 2,113.1,80.3,143.9,28.2,1,Baixo
+388,77,F,Nenhum,94.5,86.8,101.8,20.1,1,Moderado
+389,82,M,Hipotireoidismo,113.1,80.5,88.3,22.7,1,Moderado
+390,29,M,Nenhum,123.1,64.7,78.5,17.7,0,Baixo
+391,71,F,Hipotireoidismo,105.3,73.4,106.5,28.8,0,Baixo
+392,30,M,Asma,113.2,76.8,92.0,18.6,0,Baixo
+393,44,M,Nenhum,108.1,76.2,88.3,26.1,0,Baixo
+394,61,M,Nenhum,130.0,78.8,99.6,21.6,1,Moderado
+395,69,F,Asma,122.5,68.6,94.4,19.3,1,Moderado
+396,80,M,Nenhum,121.5,75.5,99.8,26.0,1,Baixo
+397,21,M,Hipertensão,139.3,91.1,79.0,27.5,0,Baixo
+398,32,M,Hipotireoidismo,114.6,80.8,109.5,28.4,0,Baixo
+399,38,F,Hipertensão,133.2,78.1,83.9,23.2,0,Baixo
+400,40,F,Nenhum,103.1,72.6,105.6,22.0,0,Baixo
+401,89,M,Hipertensão,113.6,71.5,95.5,17.6,3,Alto
+402,73,F,Nenhum,116.5,70.6,103.0,16.3,0,Baixo
+403,41,F,Hipotireoidismo,118.2,71.3,97.5,32.2,0,Moderado
+404,87,F,Nenhum,127.1,67.9,108.5,33.3,1,Alto
+405,53,F,Nenhum,130.7,76.2,83.5,25.4,0,Baixo
+406,54,F,Nenhum,130.7,74.6,102.9,21.7,0,Baixo
+407,49,F,Hipotireoidismo,105.0,59.2,109.8,23.8,1,Baixo
+408,28,M,Nenhum,111.5,76.5,85.6,28.5,1,Baixo
+409,85,F,Asma,119.8,68.5,97.1,22.9,1,Moderado
+410,19,F,Diabetes tipo 2,140.3,78.4,136.0,24.8,0,Baixo
+411,30,F,Asma,129.8,66.0,85.0,24.9,1,Moderado
+412,34,M,Hipotireoidismo,126.2,75.2,106.2,22.7,0,Baixo
+413,38,F,Asma,111.1,73.0,79.7,22.9,1,Baixo
+414,27,M,Hipotireoidismo,106.2,77.1,78.6,26.2,1,Moderado
+415,19,M,Nenhum,122.9,75.9,103.0,21.1,0,Baixo
+416,66,M,Diabetes tipo 2,104.0,73.2,165.4,31.3,2,Alto
+417,87,M,Hipertensão,134.1,77.5,118.3,25.7,3,Alto
+418,26,F,Hipertensão,132.0,76.4,83.4,28.0,1,Baixo
+419,39,M,Asma,130.9,70.9,91.1,30.5,1,Baixo
+420,54,F,Hipotireoidismo,111.5,74.9,85.5,24.3,1,Moderado
+421,84,M,Diabetes tipo 2,90.6,70.7,142.1,32.5,4,Alto
+422,67,M,Hipertensão,136.0,91.3,76.3,19.5,2,Alto
+423,73,M,Hipertensão,132.2,83.8,101.8,25.8,2,Moderado
+424,59,M,Nenhum,115.4,68.2,96.1,25.1,0,Baixo
+425,48,F,Nenhum,114.1,73.1,90.6,32.7,0,Baixo
+426,32,M,Nenhum,112.3,76.6,84.9,17.2,0,Baixo
+427,80,M,Nenhum,122.9,77.3,87.1,24.6,0,Baixo
+428,75,M,Nenhum,99.7,88.1,102.5,30.8,2,Alto
+429,19,F,Diabetes tipo 2,109.8,70.3,123.6,25.1,3,Alto
+430,69,M,Hipertensão,151.2,92.6,99.5,28.9,2,Moderado
+431,24,F,Hipotireoidismo,108.9,78.0,108.3,26.3,2,Baixo
+432,71,F,Diabetes tipo 2,98.9,74.8,175.0,29.3,0,Moderado
+433,77,F,Nenhum,121.7,71.5,80.5,31.3,4,Alto
+434,27,M,Nenhum,126.2,64.2,82.7,26.8,0,Baixo
+435,49,F,Nenhum,114.6,71.4,95.6,30.3,0,Baixo
+436,26,F,Hipotireoidismo,95.4,67.5,87.2,23.6,0,Baixo
+437,58,F,Nenhum,122.1,62.9,78.7,22.0,0,Baixo
+438,84,M,Hipertensão,116.9,75.0,100.5,24.0,4,Alto
+439,23,F,Hipotireoidismo,118.1,67.7,87.3,20.4,0,Baixo
+440,46,M,Hipotireoidismo,106.1,79.1,110.0,26.9,0,Baixo
+441,88,M,Nenhum,103.4,79.2,94.7,23.5,0,Baixo
+442,39,M,Nenhum,110.6,68.7,101.5,22.3,0,Baixo
+443,27,M,Nenhum,113.2,73.2,75.4,27.0,1,Baixo
+444,53,F,Nenhum,108.6,62.0,81.7,20.4,0,Baixo
+445,54,F,Nenhum,120.9,71.5,99.3,28.1,0,Baixo
+446,65,F,Hipertensão,135.2,88.5,104.6,24.4,1,Moderado
+447,40,M,Hipotireoidismo,124.8,80.8,80.4,29.6,0,Baixo
+448,86,M,Hipertensão,138.7,76.7,97.1,25.4,2,Alto
+449,55,M,Diabetes tipo 2,108.0,82.4,119.8,31.8,0,Moderado
+450,38,F,Nenhum,106.3,64.4,87.9,25.7,0,Baixo
+451,87,F,Asma,98.5,66.3,105.4,28.0,3,Moderado
+452,84,F,Diabetes tipo 2,117.9,80.0,118.9,28.0,4,Alto
+453,53,F,Asma,111.5,86.7,89.5,18.3,1,Baixo
+454,19,F,Hipotireoidismo,91.3,78.5,75.6,29.0,0,Baixo
+455,60,M,Nenhum,109.6,74.7,86.5,24.6,0,Baixo
+456,57,F,Nenhum,106.0,59.6,110.1,28.2,0,Baixo
+457,28,M,Nenhum,130.8,60.8,88.9,27.8,0,Baixo
+458,63,F,Hipertensão,127.5,85.8,83.4,23.7,2,Alto
+459,78,F,Hipotireoidismo,100.6,72.5,92.6,21.3,2,Alto
+460,25,M,Nenhum,126.1,67.3,71.8,27.6,0,Baixo
+461,70,M,Diabetes tipo 2,128.6,75.5,119.5,24.8,0,Moderado
+462,28,F,Hipertensão,140.0,90.3,101.8,31.4,2,Moderado
+463,71,F,Nenhum,108.7,81.6,93.2,24.3,0,Baixo
+464,48,F,Nenhum,121.2,76.0,110.1,29.1,0,Baixo
+465,18,M,Diabetes tipo 2,91.7,83.6,121.8,30.6,4,Alto
+466,87,F,Diabetes tipo 2,96.4,75.1,154.9,27.5,1,Alto
+467,29,M,Hipertensão,141.8,81.4,94.8,25.9,0,Baixo
+468,60,F,Nenhum,130.5,82.5,66.3,25.9,0,Baixo
+469,31,M,Diabetes tipo 2,110.6,68.2,148.7,34.3,2,Alto
+470,85,F,Nenhum,116.0,94.7,96.3,24.8,0,Baixo
+471,71,M,Hipotireoidismo,126.3,77.6,109.5,27.1,0,Baixo
+472,75,M,Nenhum,136.1,77.7,104.9,25.2,0,Baixo
+473,49,F,Nenhum,109.2,78.7,80.0,25.5,0,Baixo
+474,51,F,Hipertensão,138.7,104.2,104.1,32.6,3,Alto
+475,63,M,Hipertensão,149.3,101.7,90.8,30.2,5,Alto
+476,74,F,Hipertensão,124.5,69.7,86.1,26.6,2,Alto
+477,78,F,Hipertensão,140.3,98.1,97.7,26.9,4,Alto
+478,19,F,Hipotireoidismo,104.8,72.6,84.8,22.2,1,Baixo
+479,65,F,Hipertensão,143.3,91.8,109.1,25.4,1,Moderado
+480,25,F,Hipertensão,149.0,74.3,91.2,30.6,2,Moderado
+481,38,F,Hipertensão,135.5,88.0,91.8,29.8,0,Baixo
+482,77,F,Nenhum,105.2,70.4,104.6,28.0,0,Baixo
+483,36,F,Hipertensão,147.7,87.4,100.3,22.8,0,Baixo
+484,75,F,Nenhum,125.0,73.0,103.1,28.9,1,Baixo
+485,51,F,Diabetes tipo 2,113.7,88.5,178.4,28.1,0,Baixo
+486,34,M,Nenhum,115.7,88.9,95.2,21.1,0,Baixo
+487,42,F,Hipotireoidismo,120.7,75.3,92.0,30.3,3,Moderado
+488,56,F,Hipertensão,130.1,90.4,104.8,31.6,0,Moderado
+489,73,F,Asma,122.4,72.4,94.0,26.1,1,Baixo
+490,61,M,Hipertensão,148.8,99.4,93.5,33.4,2,Alto
+491,85,F,Nenhum,141.0,72.7,114.0,28.1,1,Moderado
+492,80,F,Asma,111.2,72.1,112.2,30.6,1,Alto
+493,72,F,Diabetes tipo 2,110.4,81.9,168.4,29.8,0,Moderado
+494,61,F,Diabetes tipo 2,122.7,71.2,160.6,21.0,3,Alto
+495,38,F,Hipertensão,148.2,87.4,104.3,34.3,3,Alto
+496,47,F,Diabetes tipo 2,109.6,63.9,119.0,33.2,1,Moderado
+497,26,M,Asma,111.0,79.9,91.1,23.0,0,Baixo
+498,44,M,Diabetes tipo 2,120.4,88.6,153.8,28.0,1,Moderado
+499,84,F,Nenhum,106.7,80.0,99.9,27.0,1,Moderado
+500,48,M,Diabetes tipo 2,110.9,85.2,141.1,29.5,3,Moderado
+501,26,M,Diabetes tipo 2,115.9,69.1,141.3,30.7,1,Moderado
+502,64,F,Hipotireoidismo,125.0,76.7,94.9,28.0,0,Moderado
+503,87,F,Nenhum,109.0,68.4,99.7,22.7,0,Moderado
+504,80,F,Hipertensão,118.1,87.9,92.2,22.8,1,Alto
+505,37,M,Asma,95.8,80.4,98.6,26.5,0,Baixo
+506,50,F,Hipertensão,129.7,89.9,104.4,26.7,0,Moderado
+507,56,M,Diabetes tipo 2,101.9,65.1,154.8,29.1,0,Baixo
+508,35,F,Hipertensão,145.0,73.5,86.5,22.9,0,Moderado
+509,37,M,Nenhum,103.1,65.3,97.1,24.0,0,Baixo
+510,35,M,Diabetes tipo 2,108.0,78.4,146.8,28.0,1,Alto
+511,89,F,Nenhum,107.3,89.4,85.0,27.4,2,Moderado
+512,71,F,Nenhum,110.6,84.5,101.4,21.8,1,Baixo
+513,78,M,Diabetes tipo 2,128.2,61.7,164.8,20.5,4,Alto
+514,76,F,Diabetes tipo 2,121.6,84.9,178.6,26.6,1,Alto
+515,87,F,Asma,115.2,81.6,111.6,27.2,1,Moderado
+516,25,M,Nenhum,110.4,64.2,94.9,26.6,0,Baixo
+517,81,F,Nenhum,110.7,72.9,98.6,23.0,2,Moderado
+518,22,F,Hipotireoidismo,118.3,82.7,88.9,26.2,0,Baixo
+519,52,F,Nenhum,120.8,78.9,81.8,31.0,0,Baixo
+520,60,F,Nenhum,105.9,65.8,75.6,25.8,1,Baixo
+521,43,M,Nenhum,115.4,79.3,81.7,18.5,0,Baixo
+522,28,M,Hipertensão,121.2,68.5,87.7,26.2,0,Baixo
+523,31,F,Asma,117.1,73.4,67.6,33.2,2,Moderado
+524,77,F,Diabetes tipo 2,122.6,83.0,109.5,28.0,1,Alto
+525,40,M,Diabetes tipo 2,112.2,75.1,133.9,29.7,2,Moderado
+526,40,F,Nenhum,133.2,71.5,87.8,24.1,0,Baixo
+527,84,F,Nenhum,106.2,81.2,90.0,25.4,1,Moderado
+528,28,F,Hipertensão,144.8,93.9,84.8,28.7,0,Moderado
+529,83,F,Nenhum,114.6,84.2,113.7,29.6,2,Baixo
+530,84,M,Nenhum,114.0,81.1,103.2,25.3,0,Baixo
+531,61,F,Nenhum,113.9,82.6,87.5,30.1,4,Alto
+532,29,F,Nenhum,116.1,80.1,87.7,24.5,1,Baixo
+533,29,M,Hipertensão,142.2,86.0,88.1,24.7,1,Moderado
+534,38,F,Diabetes tipo 2,128.8,75.6,133.9,26.1,2,Moderado
+535,59,M,Nenhum,115.0,73.3,85.2,17.7,0,Baixo
+536,29,F,Hipertensão,158.7,77.5,98.5,30.6,2,Alto
+537,50,F,Diabetes tipo 2,108.0,68.3,139.2,36.2,0,Alto
+538,26,F,Diabetes tipo 2,122.7,73.0,113.0,26.2,1,Baixo
+539,56,M,Asma,107.4,76.7,92.0,27.7,0,Baixo
+540,19,M,Hipertensão,152.8,100.2,88.0,23.0,0,Moderado
+541,69,F,Asma,137.1,74.7,74.6,24.0,1,Baixo
+542,21,F,Nenhum,113.8,82.0,86.7,28.9,0,Baixo
+543,32,F,Nenhum,93.1,82.6,97.5,33.0,0,Baixo
+544,30,M,Nenhum,109.5,73.4,93.0,31.0,0,Moderado
+545,77,F,Hipertensão,149.3,88.1,117.8,29.1,1,Moderado
+546,21,M,Nenhum,120.5,73.3,99.7,25.1,0,Baixo
+547,48,M,Nenhum,117.5,84.3,105.7,25.8,0,Baixo
+548,60,M,Diabetes tipo 2,125.1,79.5,167.7,22.5,0,Moderado
+549,55,F,Nenhum,119.8,66.7,99.8,19.2,0,Baixo
+550,67,F,Nenhum,127.2,76.1,95.7,20.5,1,Baixo
+551,75,F,Nenhum,124.2,86.5,105.0,25.2,0,Moderado
+552,46,M,Hipertensão,159.7,83.7,85.3,26.3,0,Moderado
+553,77,M,Nenhum,118.6,78.1,96.6,19.1,1,Moderado
+554,40,M,Nenhum,124.1,78.8,83.5,24.9,1,Baixo
+555,88,F,Nenhum,111.9,67.7,101.2,23.7,1,Moderado
+556,54,F,Diabetes tipo 2,109.0,78.6,155.1,23.9,0,Baixo
+557,70,M,Hipotireoidismo,132.1,65.2,87.6,23.5,2,Moderado
+558,81,M,Hipertensão,149.8,76.5,100.3,30.0,2,Alto
+559,75,M,Diabetes tipo 2,123.0,82.5,151.2,24.9,5,Alto
+560,79,M,Asma,116.2,77.5,76.6,28.7,2,Moderado
+561,56,F,Hipotireoidismo,109.1,72.9,77.8,17.4,1,Baixo
+562,21,F,Diabetes tipo 2,115.1,78.1,142.5,21.3,0,Moderado
+563,53,F,Asma,129.4,74.6,83.1,25.0,0,Baixo
+564,31,M,Hipotireoidismo,120.6,75.1,92.8,25.4,0,Baixo
+565,82,M,Diabetes tipo 2,97.9,79.6,130.9,28.8,4,Alto
+566,35,F,Hipertensão,131.5,84.6,99.9,24.7,0,Moderado
+567,34,M,Nenhum,132.8,75.3,96.6,21.3,1,Baixo
+568,35,M,Nenhum,112.9,72.8,100.0,25.0,0,Baixo
+569,64,M,Hipertensão,122.4,79.3,99.7,27.5,2,Moderado
+570,59,M,Hipertensão,165.2,79.9,94.9,33.7,4,Alto
+571,86,F,Hipertensão,139.7,92.3,107.9,28.6,3,Alto
+572,47,F,Hipertensão,137.9,91.5,100.2,27.6,0,Baixo
+573,38,M,Hipertensão,137.4,78.6,93.5,36.9,0,Moderado
+574,21,M,Asma,125.8,64.2,99.9,24.2,0,Baixo
+575,18,F,Nenhum,109.6,74.2,63.2,27.2,0,Baixo
+576,44,F,Nenhum,126.5,85.9,87.7,27.6,0,Baixo
+577,84,M,Diabetes tipo 2,120.4,73.7,138.7,27.8,1,Alto
+578,55,M,Asma,117.4,84.1,103.8,26.2,1,Moderado
+579,82,F,Hipotireoidismo,116.5,77.5,112.0,25.8,0,Baixo
+580,25,M,Asma,113.3,78.3,73.2,25.4,0,Baixo
+581,24,F,Asma,125.5,65.6,101.7,22.7,0,Baixo
+582,78,F,Nenhum,106.3,81.6,84.0,26.3,0,Baixo
+583,25,M,Hipertensão,125.6,75.8,76.3,37.4,1,Moderado
+584,21,F,Nenhum,121.1,81.0,84.8,29.8,0,Baixo
+585,47,M,Diabetes tipo 2,121.3,69.3,139.9,30.0,2,Moderado
+586,84,F,Hipotireoidismo,119.8,76.2,81.0,28.4,1,Moderado
+587,67,M,Nenhum,119.1,77.5,100.5,21.5,1,Baixo
+588,25,F,Hipertensão,125.7,88.3,94.5,27.0,1,Moderado
+589,78,M,Nenhum,122.9,77.8,106.2,28.8,0,Moderado
+590,78,F,Nenhum,114.5,73.1,91.4,30.9,1,Moderado
+591,75,M,Nenhum,110.1,70.5,94.9,21.9,1,Baixo
+592,82,F,Nenhum,111.9,86.2,96.0,23.1,1,Moderado
+593,35,F,Hipotireoidismo,135.2,82.3,106.1,33.7,0,Moderado
+594,88,F,Hipertensão,123.5,83.0,68.9,26.7,5,Alto
+595,41,M,Asma,120.0,79.0,80.6,32.3,0,Baixo
+596,75,F,Diabetes tipo 2,98.2,69.8,154.4,30.0,5,Alto
+597,59,M,Nenhum,113.9,66.7,82.0,26.0,0,Baixo
+598,74,M,Nenhum,110.7,82.2,92.5,23.8,0,Baixo
+599,63,M,Asma,94.1,63.1,92.2,28.8,1,Moderado
+600,64,M,Nenhum,118.9,81.5,87.0,30.4,0,Moderado
+601,62,F,Hipotireoidismo,111.2,73.2,93.9,20.9,0,Baixo
+602,74,M,Nenhum,94.0,73.5,101.4,23.6,0,Moderado
+603,71,M,Diabetes tipo 2,123.4,77.9,170.2,31.4,1,Alto
+604,27,F,Asma,129.4,79.1,83.5,24.5,1,Baixo
+605,77,F,Nenhum,129.9,69.2,93.9,23.0,0,Baixo
+606,56,M,Nenhum,118.6,80.0,92.3,29.0,1,Baixo
+607,41,F,Hipotireoidismo,115.5,75.8,72.7,29.4,1,Baixo
+608,55,M,Nenhum,128.3,66.2,96.9,23.2,0,Baixo
+609,87,F,Hipertensão,155.5,80.5,92.5,28.9,1,Alto
+610,79,F,Hipertensão,154.3,93.6,108.5,20.7,2,Moderado
+611,78,M,Nenhum,105.6,86.7,101.6,21.4,0,Baixo
+612,51,F,Diabetes tipo 2,117.0,80.0,148.6,24.3,2,Moderado
+613,74,M,Diabetes tipo 2,119.4,66.7,144.0,25.7,0,Alto
+614,45,M,Nenhum,96.9,78.4,87.0,21.1,0,Baixo
+615,67,F,Asma,119.7,81.0,81.6,22.1,0,Moderado
+616,64,F,Nenhum,137.7,80.1,86.5,20.7,1,Moderado
+617,35,M,Nenhum,121.4,80.5,101.8,26.8,0,Baixo
+618,37,M,Hipertensão,156.6,83.3,104.4,19.6,2,Moderado
+619,22,F,Hipotireoidismo,116.8,74.5,75.8,21.0,0,Baixo
+620,28,M,Nenhum,114.3,70.7,83.6,17.5,1,Baixo
+621,49,F,Nenhum,118.8,61.7,90.6,26.7,0,Baixo
+622,52,F,Hipertensão,126.5,91.0,97.7,22.1,0,Moderado
+623,29,M,Asma,105.4,76.3,70.8,25.1,0,Baixo
+624,48,F,Nenhum,127.7,78.9,75.2,31.6,0,Baixo
+625,61,M,Nenhum,128.7,65.6,98.0,31.7,4,Moderado
+626,34,M,Diabetes tipo 2,105.1,79.5,140.9,18.7,2,Moderado
+627,42,M,Nenhum,124.7,89.4,85.8,26.2,0,Baixo
+628,44,M,Nenhum,114.1,75.5,92.2,21.0,0,Baixo
+629,54,F,Nenhum,118.4,74.6,96.3,20.2,0,Baixo
+630,44,F,Hipertensão,142.8,87.0,89.2,28.7,0,Moderado
+631,71,M,Hipertensão,152.7,101.9,91.0,33.1,1,Alto
+632,41,M,Asma,115.8,67.8,98.6,27.4,0,Baixo
+633,49,F,Diabetes tipo 2,129.1,76.4,134.6,25.0,0,Baixo
+634,45,M,Diabetes tipo 2,118.1,69.4,121.5,30.9,3,Moderado
+635,31,F,Hipotireoidismo,121.2,71.2,89.0,16.0,0,Baixo
+636,67,M,Hipertensão,136.8,86.9,97.9,23.7,1,Moderado
+637,34,F,Hipertensão,170.9,97.1,106.3,23.3,2,Moderado
+638,39,M,Hipotireoidismo,119.7,87.6,97.7,25.3,0,Baixo
+639,75,F,Nenhum,122.1,78.1,107.4,24.2,0,Moderado
+640,86,F,Diabetes tipo 2,98.9,72.4,145.1,26.6,4,Alto
+641,66,M,Diabetes tipo 2,106.8,92.4,124.1,27.1,0,Moderado
+642,83,F,Nenhum,127.4,72.0,94.1,25.1,1,Moderado
+643,79,F,Hipertensão,144.9,80.1,94.4,29.3,4,Alto
+644,52,M,Nenhum,95.9,62.6,81.7,25.6,1,Baixo
+645,73,F,Nenhum,125.4,84.8,107.6,23.9,0,Baixo
+646,41,F,Hipertensão,139.0,100.5,99.0,29.5,2,Moderado
+647,51,F,Nenhum,129.1,91.9,88.6,28.3,0,Baixo
+648,56,M,Diabetes tipo 2,114.1,65.3,166.6,27.4,1,Moderado
+649,87,M,Hipotireoidismo,117.0,85.2,99.3,24.8,1,Moderado
+650,79,M,Asma,126.8,75.5,103.0,29.6,0,Moderado
+651,53,F,Nenhum,106.0,80.6,78.5,20.6,0,Baixo
+652,64,F,Nenhum,105.1,63.5,92.1,32.2,2,Moderado
+653,32,F,Nenhum,113.0,85.3,88.2,19.6,0,Baixo
+654,75,M,Nenhum,123.3,80.5,101.5,23.6,0,Moderado
+655,57,F,Hipotireoidismo,101.7,74.7,86.3,21.2,0,Baixo
+656,56,F,Hipertensão,123.9,95.2,67.4,34.1,1,Moderado
+657,73,M,Nenhum,123.2,69.6,84.1,23.0,0,Baixo
+658,63,M,Asma,109.0,70.9,92.8,23.0,0,Moderado
+659,23,M,Nenhum,111.1,71.8,88.1,23.5,0,Baixo
+660,38,F,Nenhum,96.4,62.0,106.5,25.4,0,Baixo
+661,30,M,Nenhum,108.2,81.0,94.3,23.7,0,Baixo
+662,70,M,Diabetes tipo 2,114.9,83.3,170.2,28.7,2,Moderado
+663,20,F,Diabetes tipo 2,124.3,70.1,154.2,15.0,1,Baixo
+664,32,M,Nenhum,107.3,77.4,99.8,25.2,0,Baixo
+665,61,M,Hipotireoidismo,131.6,73.1,87.2,25.1,2,Moderado
+666,68,F,Asma,108.2,77.3,92.8,29.2,0,Baixo
+667,54,M,Asma,108.2,70.6,81.2,30.2,2,Moderado
+668,79,M,Nenhum,130.4,68.8,110.0,24.2,0,Moderado
+669,84,M,Nenhum,117.1,82.4,100.5,28.3,0,Moderado
+670,27,M,Asma,109.5,74.6,81.0,20.6,0,Baixo
+671,86,M,Nenhum,113.4,89.2,95.8,28.1,3,Moderado
+672,62,M,Diabetes tipo 2,128.5,75.3,158.0,20.3,2,Alto
+673,63,F,Diabetes tipo 2,129.7,68.5,120.6,23.6,1,Moderado
+674,24,M,Nenhum,106.8,83.6,82.3,24.3,0,Baixo
+675,62,M,Diabetes tipo 2,114.6,79.4,137.2,37.3,2,Alto
+676,70,M,Hipotireoidismo,115.9,80.1,97.9,25.7,1,Moderado
+677,59,F,Diabetes tipo 2,105.1,83.3,116.6,37.4,2,Moderado
+678,24,F,Hipertensão,134.1,71.3,83.1,25.3,0,Moderado
+679,55,M,Asma,115.1,74.1,78.9,29.2,0,Moderado
+680,85,M,Hipertensão,153.3,85.8,97.5,26.5,4,Alto
+681,70,M,Diabetes tipo 2,127.1,66.0,147.0,28.9,0,Moderado
+682,27,F,Asma,111.7,73.2,84.8,25.9,0,Baixo
+683,87,F,Diabetes tipo 2,112.9,84.4,164.0,29.6,3,Alto
+684,87,M,Nenhum,121.6,76.7,104.5,26.0,1,Moderado
+685,30,F,Nenhum,109.1,65.6,95.5,22.0,0,Baixo
+686,75,M,Nenhum,120.9,64.1,100.8,28.5,0,Moderado
+687,47,F,Hipertensão,135.4,91.2,88.6,34.2,2,Alto
+688,60,F,Hipertensão,135.6,89.1,87.3,24.5,1,Moderado
+689,50,M,Hipertensão,130.3,89.5,81.1,21.7,1,Moderado
+690,74,F,Nenhum,129.5,73.1,89.2,27.0,1,Baixo
+691,89,M,Diabetes tipo 2,113.4,64.7,170.9,24.4,4,Alto
+692,75,M,Hipotireoidismo,131.4,85.0,87.4,24.5,0,Moderado
+693,85,M,Nenhum,109.9,72.2,97.7,27.2,0,Baixo
+694,86,F,Diabetes tipo 2,117.9,84.6,140.1,23.4,3,Alto
+695,24,F,Diabetes tipo 2,138.9,75.4,97.7,28.0,0,Baixo
+696,36,M,Hipertensão,123.8,98.6,97.6,30.8,0,Baixo
+697,69,F,Nenhum,96.0,76.8,89.6,30.9,1,Moderado
+698,60,F,Diabetes tipo 2,127.9,81.0,139.3,29.6,1,Moderado
+699,21,F,Hipotireoidismo,106.7,80.0,76.2,20.1,1,Baixo
+700,24,M,Diabetes tipo 2,114.8,79.4,156.3,27.7,0,Moderado
+701,55,F,Hipotireoidismo,109.1,77.4,106.0,25.6,0,Baixo
+702,62,F,Hipotireoidismo,117.7,73.4,89.3,20.5,1,Moderado
+703,30,M,Nenhum,105.5,88.4,86.3,18.8,0,Baixo
+704,30,F,Diabetes tipo 2,113.2,68.7,154.7,29.9,0,Moderado
+705,27,M,Hipertensão,138.8,87.7,69.9,33.2,3,Alto
+706,58,M,Hipotireoidismo,104.9,75.1,112.4,23.5,0,Baixo
+707,18,M,Nenhum,108.0,77.8,111.1,26.2,0,Baixo
+708,59,M,Hipertensão,139.9,82.9,65.8,28.2,2,Moderado
+709,52,F,Asma,100.7,77.2,90.8,27.4,1,Baixo
+710,51,F,Nenhum,110.8,73.8,84.5,27.4,0,Baixo
+711,66,F,Diabetes tipo 2,116.2,63.9,162.4,18.1,4,Alto
+712,55,F,Nenhum,111.0,75.1,88.1,24.0,0,Baixo
+713,70,M,Hipotireoidismo,112.3,67.3,102.6,27.1,0,Baixo
+714,73,M,Asma,114.8,62.9,93.8,23.4,0,Moderado
+715,84,M,Nenhum,108.4,76.0,87.5,25.1,2,Moderado
+716,75,M,Diabetes tipo 2,121.9,78.4,151.7,28.7,1,Alto
+717,55,M,Nenhum,129.4,78.7,97.4,25.3,0,Baixo
+718,53,F,Diabetes tipo 2,110.4,79.0,150.7,34.0,2,Moderado
+719,34,F,Diabetes tipo 2,119.9,61.5,118.6,38.3,6,Alto
+720,61,M,Asma,112.6,65.5,113.1,24.5,1,Moderado
+721,28,F,Nenhum,118.7,88.8,81.8,24.2,0,Baixo
+722,85,M,Nenhum,130.7,67.7,95.4,15.0,2,Moderado
+723,78,M,Diabetes tipo 2,120.1,79.3,137.3,28.1,4,Alto
+724,26,M,Hipertensão,116.6,83.1,93.4,19.9,2,Moderado
+725,74,M,Hipertensão,138.0,91.0,112.8,31.6,2,Alto
+726,26,M,Nenhum,127.3,70.6,93.7,25.6,1,Baixo
+727,69,M,Nenhum,112.8,78.9,79.2,27.8,1,Moderado
+728,24,M,Asma,125.0,76.0,73.8,30.6,4,Moderado
+729,53,F,Nenhum,108.1,71.9,88.0,24.9,1,Baixo
+730,65,F,Nenhum,100.1,67.6,91.1,34.1,1,Moderado
+731,70,M,Hipotireoidismo,116.4,76.9,77.3,25.9,0,Moderado
+732,48,M,Nenhum,97.4,66.5,99.4,19.8,0,Baixo
+733,84,M,Diabetes tipo 2,112.6,78.0,148.3,21.7,4,Alto
+734,73,M,Nenhum,127.9,93.4,109.9,23.5,0,Baixo
+735,32,M,Asma,95.9,84.5,107.0,27.4,0,Baixo
+736,66,M,Diabetes tipo 2,102.2,80.0,150.1,25.4,4,Alto
+737,70,M,Asma,104.7,74.4,98.9,23.8,0,Baixo
+738,42,F,Nenhum,114.4,61.4,78.0,24.4,0,Baixo
+739,71,F,Hipertensão,131.9,83.5,100.9,31.0,2,Alto
+740,82,F,Diabetes tipo 2,129.0,84.0,158.6,30.1,1,Alto
+741,76,F,Nenhum,124.5,69.5,84.5,27.6,1,Moderado
+742,72,M,Nenhum,120.0,70.1,91.9,29.7,1,Baixo
+743,63,F,Nenhum,116.5,73.8,88.8,23.7,0,Baixo
+744,37,F,Hipotireoidismo,118.9,67.6,86.3,29.8,0,Baixo
+745,75,F,Diabetes tipo 2,106.4,66.4,169.5,26.0,2,Alto
+746,44,M,Diabetes tipo 2,123.6,74.6,130.1,21.4,1,Baixo
+747,56,M,Diabetes tipo 2,103.9,68.8,161.4,26.0,1,Baixo
+748,40,F,Hipertensão,137.5,84.2,76.7,29.2,0,Baixo
+749,40,M,Hipertensão,153.5,81.6,106.2,32.7,2,Alto
+750,29,M,Hipertensão,146.5,86.7,78.2,26.7,0,Moderado
+751,87,M,Diabetes tipo 2,113.2,73.4,145.9,26.6,3,Alto
+752,28,M,Nenhum,119.0,73.7,83.3,24.1,1,Baixo
+753,24,M,Asma,86.4,79.2,84.2,27.3,0,Baixo
+754,85,F,Asma,118.0,74.0,104.8,23.1,0,Moderado
+755,57,M,Nenhum,113.9,73.1,107.5,22.9,0,Baixo
+756,49,F,Hipertensão,142.1,93.8,103.3,19.3,0,Moderado
+757,71,F,Nenhum,122.1,79.7,90.6,22.7,0,Baixo
+758,45,M,Hipotireoidismo,114.3,74.0,92.6,29.7,0,Baixo
+759,27,M,Hipotireoidismo,103.6,75.6,80.2,25.4,0,Baixo
+760,70,M,Hipotireoidismo,113.6,69.5,84.6,22.0,1,Moderado
+761,30,F,Nenhum,115.7,69.0,77.0,29.9,0,Baixo
+762,57,F,Nenhum,116.1,80.4,88.2,22.7,0,Baixo
+763,86,F,Nenhum,116.6,78.1,99.4,30.7,1,Alto
+764,85,M,Nenhum,125.4,78.2,77.6,30.6,1,Moderado
+765,43,M,Nenhum,104.1,77.0,90.0,25.2,0,Baixo
+766,74,M,Nenhum,116.8,75.3,110.3,19.0,0,Baixo
+767,62,M,Hipotireoidismo,127.9,79.9,104.5,34.2,3,Alto
+768,52,F,Nenhum,97.7,81.5,85.9,26.5,0,Baixo
+769,28,F,Nenhum,116.8,81.4,74.2,23.7,1,Baixo
+770,45,F,Asma,109.1,74.3,95.3,28.8,1,Baixo
+771,64,F,Hipertensão,143.1,97.5,70.4,27.3,1,Moderado
+772,89,F,Diabetes tipo 2,106.0,76.6,160.2,32.9,5,Alto
+773,18,F,Diabetes tipo 2,113.3,79.4,161.9,27.8,0,Moderado
+774,69,F,Asma,133.4,77.0,112.7,26.3,0,Baixo
+775,78,M,Diabetes tipo 2,102.4,76.7,117.2,27.9,2,Alto
+776,86,F,Hipertensão,127.4,73.2,106.1,29.0,1,Moderado
+777,48,F,Diabetes tipo 2,102.0,79.9,143.3,28.1,0,Baixo
+778,26,F,Hipertensão,170.7,112.4,84.6,26.7,0,Moderado
+779,37,F,Nenhum,110.4,72.4,75.9,24.4,0,Baixo
+780,79,M,Hipertensão,137.4,86.2,101.8,26.7,2,Alto
+781,81,F,Nenhum,111.0,71.9,102.9,21.5,0,Baixo
+782,63,F,Diabetes tipo 2,105.6,71.6,182.5,36.8,1,Alto
+783,26,F,Nenhum,112.6,85.8,98.0,31.0,1,Baixo
+784,26,M,Nenhum,139.6,70.3,82.0,22.8,0,Baixo
+785,52,M,Nenhum,128.9,71.7,81.8,27.2,1,Baixo
+786,60,F,Asma,106.5,63.9,79.3,26.7,1,Moderado
+787,20,F,Nenhum,121.5,69.7,101.7,25.0,1,Baixo
+788,67,F,Diabetes tipo 2,106.7,63.0,110.6,19.5,4,Alto
+789,57,F,Asma,97.2,79.4,107.4,19.8,1,Baixo
+790,18,M,Nenhum,125.2,94.6,92.0,21.9,0,Baixo
+791,24,M,Diabetes tipo 2,126.6,72.4,142.5,21.2,1,Moderado
+792,50,M,Nenhum,125.5,63.3,88.4,30.6,0,Baixo
+793,70,F,Nenhum,110.3,81.3,101.1,26.5,0,Baixo
+794,77,F,Diabetes tipo 2,113.3,69.9,130.9,27.9,1,Moderado
+795,49,F,Hipotireoidismo,122.5,84.1,87.7,16.2,1,Baixo
+796,39,F,Nenhum,118.9,73.0,96.8,17.7,0,Baixo
+797,87,M,Hipertensão,137.6,83.9,95.6,31.0,2,Alto
+798,51,F,Nenhum,98.8,73.8,83.7,32.9,0,Baixo
+799,40,F,Hipertensão,132.6,96.9,96.0,26.5,0,Baixo
+800,49,M,Diabetes tipo 2,125.8,73.4,150.4,29.0,2,Moderado
+801,18,F,Diabetes tipo 2,103.0,71.5,142.3,29.5,0,Baixo
+802,39,F,Diabetes tipo 2,121.4,73.6,148.2,26.6,1,Moderado
+803,55,F,Nenhum,118.3,66.1,80.2,29.9,1,Baixo
+804,84,F,Diabetes tipo 2,122.5,77.8,160.8,30.7,3,Alto
+805,71,F,Diabetes tipo 2,123.7,62.5,136.1,26.3,1,Alto
+806,74,F,Diabetes tipo 2,108.1,71.9,160.9,35.7,1,Alto
+807,57,F,Nenhum,98.8,80.3,88.7,25.2,0,Baixo
+808,25,F,Hipertensão,136.5,86.7,84.7,32.0,2,Alto
+809,46,F,Hipertensão,158.5,98.8,104.7,27.5,0,Baixo
+810,89,M,Nenhum,109.6,74.5,93.8,30.6,0,Alto
+811,21,F,Nenhum,108.1,83.2,80.8,26.1,0,Baixo
+812,81,M,Hipertensão,115.9,91.5,114.9,29.2,0,Alto
+813,67,M,Diabetes tipo 2,132.5,78.1,126.9,23.5,2,Alto
+814,38,F,Nenhum,123.3,81.5,107.4,23.0,0,Baixo
+815,74,M,Asma,122.7,80.3,81.1,25.0,1,Moderado
+816,78,F,Hipertensão,150.9,88.7,100.9,28.5,5,Alto
+817,21,F,Diabetes tipo 2,120.8,65.6,154.8,34.2,2,Alto
+818,25,F,Hipertensão,135.5,89.7,88.0,26.2,0,Moderado
+819,65,F,Hipertensão,142.3,95.3,91.1,23.1,0,Moderado
+820,89,F,Diabetes tipo 2,110.7,82.6,139.3,20.8,2,Alto
+821,19,F,Hipotireoidismo,141.3,68.4,97.7,18.1,0,Baixo
+822,65,M,Hipertensão,140.5,81.1,86.0,28.2,3,Moderado
+823,27,F,Hipertensão,127.5,90.9,87.1,24.6,0,Baixo
+824,64,M,Diabetes tipo 2,119.7,74.5,135.3,25.9,5,Alto
+825,62,M,Diabetes tipo 2,104.9,61.8,169.1,24.9,2,Moderado
+826,24,M,Nenhum,130.0,77.6,99.1,24.7,0,Baixo
+827,67,F,Hipertensão,140.8,67.9,93.7,29.3,1,Alto
+828,82,M,Hipertensão,139.9,75.6,84.8,29.2,4,Alto
+829,80,M,Hipotireoidismo,125.7,84.5,111.4,15.0,0,Baixo
+830,20,M,Hipertensão,144.3,99.6,83.3,30.5,0,Alto
+831,35,F,Hipertensão,131.6,85.6,78.2,30.0,0,Baixo
+832,35,M,Hipotireoidismo,115.1,72.7,71.6,31.6,0,Baixo
+833,50,M,Hipertensão,139.5,83.7,85.0,35.1,4,Alto
+834,28,F,Nenhum,109.2,87.5,73.7,19.5,0,Baixo
+835,79,F,Nenhum,110.5,71.5,89.6,23.6,1,Moderado
+836,73,F,Nenhum,129.8,71.7,102.4,18.7,0,Baixo
+837,76,M,Nenhum,113.9,85.8,91.6,31.1,0,Moderado
+838,32,F,Hipertensão,136.5,82.6,92.4,28.4,0,Moderado
+839,19,F,Diabetes tipo 2,109.8,80.1,128.5,25.8,1,Moderado
+840,83,M,Diabetes tipo 2,126.0,64.7,169.7,28.5,5,Alto
+841,38,F,Nenhum,121.8,73.8,108.9,30.5,0,Baixo
+842,65,F,Hipertensão,147.7,84.5,90.3,34.0,3,Alto
+843,83,M,Nenhum,112.4,67.6,100.3,29.6,0,Baixo
+844,20,M,Hipotireoidismo,120.7,80.9,71.3,26.8,0,Baixo
+845,18,M,Nenhum,108.6,74.7,101.9,23.6,1,Baixo
+846,18,M,Diabetes tipo 2,112.4,72.8,145.4,31.0,3,Alto
+847,29,F,Nenhum,124.7,69.8,98.9,28.3,0,Baixo
+848,21,M,Diabetes tipo 2,123.7,73.5,138.7,28.0,1,Baixo
+849,77,M,Hipertensão,136.0,93.6,101.7,22.8,3,Alto
+850,61,F,Diabetes tipo 2,106.4,81.9,134.4,33.2,4,Alto
+851,88,F,Nenhum,116.1,56.6,92.7,31.7,0,Moderado
+852,75,F,Hipotireoidismo,132.3,69.2,106.2,22.0,1,Moderado
+853,87,F,Hipertensão,117.2,87.5,89.5,28.7,0,Alto
+854,35,F,Diabetes tipo 2,117.8,74.3,153.7,29.9,1,Baixo
+855,38,F,Asma,101.2,77.8,85.8,26.9,0,Baixo
+856,79,M,Hipotireoidismo,108.7,76.9,99.3,22.9,1,Moderado
+857,35,F,Nenhum,111.4,72.9,84.6,32.5,0,Baixo
+858,22,M,Nenhum,110.8,71.3,87.8,26.7,0,Baixo
+859,66,M,Nenhum,109.7,73.3,83.2,27.1,0,Moderado
+860,75,M,Nenhum,115.1,83.0,97.7,32.0,5,Alto
+861,87,M,Hipertensão,120.5,80.2,97.5,27.1,3,Alto
+862,84,F,Hipotireoidismo,100.4,74.6,91.2,24.6,1,Moderado
+863,26,M,Hipotireoidismo,122.8,76.3,87.3,20.0,0,Baixo
+864,73,F,Hipertensão,151.0,99.7,96.3,26.8,3,Alto
+865,78,M,Diabetes tipo 2,123.4,72.9,165.4,19.9,2,Alto
+866,68,F,Asma,99.6,81.7,92.9,28.0,3,Moderado
+867,77,F,Hipotireoidismo,118.0,83.6,85.5,26.7,4,Alto
+868,78,M,Nenhum,121.8,74.6,119.2,23.9,1,Moderado
+869,50,F,Hipertensão,126.2,84.7,102.1,27.8,0,Moderado
+870,20,M,Asma,115.1,72.7,89.7,28.0,1,Baixo
+871,50,F,Nenhum,113.8,73.2,103.2,20.5,1,Baixo
+872,32,F,Hipertensão,155.7,96.8,69.0,26.1,1,Moderado
+873,26,M,Hipotireoidismo,134.2,76.6,62.3,27.8,0,Baixo
+874,26,M,Hipotireoidismo,98.4,76.6,83.9,17.9,0,Baixo
+875,68,F,Hipotireoidismo,139.9,67.1,80.4,27.7,1,Baixo
+876,54,F,Diabetes tipo 2,105.8,68.2,175.8,20.6,0,Baixo
+877,56,F,Nenhum,124.8,90.0,94.5,24.5,1,Baixo
+878,71,M,Nenhum,124.7,73.8,103.9,20.3,0,Baixo
+879,57,M,Hipertensão,125.2,78.3,81.2,33.3,0,Moderado
+880,63,F,Hipertensão,135.2,96.3,97.4,22.5,0,Baixo
+881,24,F,Hipertensão,134.5,81.1,87.7,18.6,1,Moderado
+882,79,F,Diabetes tipo 2,120.5,79.0,134.6,27.2,4,Alto
+883,50,F,Hipertensão,136.2,83.0,86.3,25.6,0,Moderado
+884,29,M,Diabetes tipo 2,127.0,72.8,161.3,22.1,0,Moderado
+885,76,M,Nenhum,115.8,73.8,94.4,27.1,1,Baixo
+886,70,F,Nenhum,113.3,65.3,112.2,17.0,0,Baixo
+887,21,M,Nenhum,126.0,74.4,79.2,20.9,0,Baixo
+888,31,F,Nenhum,120.8,77.1,96.1,22.7,0,Baixo
+889,19,F,Asma,122.3,88.0,86.3,28.2,1,Baixo
+890,37,F,Hipertensão,133.1,93.4,86.3,31.8,1,Moderado
+891,25,F,Nenhum,104.5,58.7,94.1,29.4,0,Baixo
+892,69,F,Diabetes tipo 2,109.3,74.3,155.0,30.0,3,Alto
+893,55,M,Hipertensão,137.6,112.0,65.6,17.9,0,Moderado
+894,88,M,Nenhum,122.9,81.1,66.6,26.6,2,Moderado
+895,71,F,Nenhum,124.8,69.3,107.4,30.9,4,Alto
+896,62,M,Nenhum,113.4,79.1,105.6,29.9,3,Moderado
+897,54,M,Diabetes tipo 2,129.3,69.8,184.7,29.2,3,Alto
+898,21,M,Nenhum,128.7,65.5,87.0,20.2,0,Baixo
+899,23,M,Nenhum,117.4,72.6,74.5,22.9,0,Baixo
+900,62,F,Nenhum,106.8,75.6,89.1,32.7,0,Baixo
+901,18,M,Hipertensão,163.0,72.8,86.8,21.6,2,Moderado
+902,21,M,Nenhum,114.4,67.0,77.1,20.4,0,Baixo
+903,33,M,Asma,116.3,75.1,105.4,28.8,0,Baixo
+904,81,F,Nenhum,111.6,72.1,118.5,23.3,0,Baixo
+905,51,F,Diabetes tipo 2,106.1,77.8,166.8,23.7,0,Moderado
+906,69,F,Hipertensão,115.7,83.3,94.2,34.4,2,Alto
+907,47,F,Hipertensão,149.9,96.8,78.1,26.1,2,Moderado
+908,30,F,Nenhum,107.2,66.7,104.0,23.5,0,Baixo
+909,44,F,Asma,145.6,86.5,91.4,20.4,1,Baixo
+910,24,M,Asma,104.1,63.0,84.7,33.2,2,Alto
+911,73,F,Nenhum,102.4,67.4,99.8,24.9,0,Baixo
+912,31,M,Nenhum,120.1,77.9,82.8,30.6,0,Baixo
+913,45,F,Hipotireoidismo,130.3,86.6,92.2,28.6,0,Baixo
+914,88,M,Hipertensão,153.6,91.0,82.8,26.7,4,Alto
+915,60,F,Nenhum,120.7,78.9,103.9,22.9,0,Baixo
+916,51,M,Nenhum,96.6,75.1,90.6,30.8,0,Baixo
+917,57,F,Diabetes tipo 2,108.2,67.8,156.2,34.3,2,Moderado
+918,74,F,Diabetes tipo 2,104.3,71.6,147.7,21.9,1,Moderado
+919,36,F,Hipertensão,113.9,78.6,88.0,29.2,1,Moderado
+920,63,M,Hipotireoidismo,116.2,66.0,81.3,24.5,1,Baixo
+921,80,F,Hipertensão,114.9,94.3,103.6,20.3,3,Alto
+922,59,M,Nenhum,101.8,67.1,84.1,26.0,0,Baixo
+923,50,M,Hipertensão,138.1,86.6,86.6,18.5,0,Moderado
+924,28,F,Nenhum,106.7,65.9,88.2,23.1,0,Baixo
+925,35,F,Nenhum,119.0,77.1,90.5,21.8,0,Baixo
+926,86,F,Nenhum,118.1,71.6,79.8,23.0,0,Baixo
+927,56,F,Nenhum,123.9,84.8,90.1,24.7,0,Baixo
+928,39,F,Diabetes tipo 2,122.5,77.3,153.7,22.7,2,Moderado
+929,48,F,Nenhum,126.4,83.7,87.4,31.3,0,Baixo
+930,59,M,Hipertensão,142.6,84.8,90.6,30.9,0,Moderado
+931,56,F,Diabetes tipo 2,118.0,75.4,126.9,32.1,0,Moderado
+932,68,F,Diabetes tipo 2,120.1,68.1,138.7,26.2,0,Moderado
+933,36,M,Diabetes tipo 2,116.4,72.1,113.3,28.7,0,Baixo
+934,64,M,Asma,111.0,73.2,93.2,32.0,0,Moderado
+935,49,F,Diabetes tipo 2,111.7,69.9,165.6,24.2,0,Moderado
+936,85,F,Nenhum,106.8,66.5,86.2,24.3,0,Baixo
+937,29,F,Hipertensão,135.4,83.9,84.6,31.4,0,Moderado
+938,28,M,Diabetes tipo 2,114.1,58.6,123.6,21.8,0,Moderado
+939,51,M,Nenhum,108.4,67.6,101.1,27.8,0,Baixo
+940,54,F,Nenhum,108.4,79.4,91.2,27.3,0,Baixo
+941,67,F,Nenhum,102.9,63.8,85.5,30.1,3,Moderado
+942,47,F,Hipertensão,153.5,79.7,92.0,31.3,3,Moderado
+943,83,M,Hipertensão,148.3,106.2,84.4,33.1,6,Alto
+944,52,F,Nenhum,106.4,70.5,81.5,24.6,0,Baixo
+945,27,F,Asma,123.1,77.2,73.4,21.5,1,Baixo
+946,26,F,Hipotireoidismo,109.4,79.5,77.2,33.4,1,Moderado
+947,88,F,Nenhum,100.9,79.6,110.8,18.9,0,Moderado
+948,27,M,Hipotireoidismo,125.2,64.3,80.7,19.3,0,Baixo
+949,86,F,Nenhum,109.6,73.4,101.6,27.3,1,Moderado
+950,38,F,Hipotireoidismo,110.9,63.7,81.3,31.5,1,Moderado
+951,24,M,Hipotireoidismo,115.4,92.1,95.2,25.8,1,Baixo
+952,39,M,Nenhum,126.4,63.8,79.6,29.0,1,Baixo
+953,62,F,Diabetes tipo 2,115.2,67.7,127.5,22.5,0,Alto
+954,48,F,Hipotireoidismo,103.0,67.7,91.7,23.0,1,Baixo
+955,74,M,Hipotireoidismo,120.4,64.5,118.4,17.5,0,Baixo
+956,61,F,Hipotireoidismo,110.2,84.5,99.5,28.1,2,Moderado
+957,46,M,Hipertensão,161.9,104.8,85.0,20.4,1,Moderado
+958,63,M,Nenhum,115.0,71.7,100.3,19.9,0,Moderado
+959,87,M,Asma,92.6,65.8,118.4,27.1,2,Moderado
+960,47,F,Diabetes tipo 2,118.6,59.3,113.3,33.1,4,Alto
+961,29,M,Diabetes tipo 2,134.4,73.3,127.8,25.4,0,Baixo
+962,47,M,Hipertensão,145.4,85.0,88.7,27.0,1,Moderado
+963,78,F,Hipertensão,158.0,83.0,91.5,30.7,1,Alto
+964,33,M,Nenhum,104.8,76.5,85.6,24.1,1,Baixo
+965,86,M,Diabetes tipo 2,124.1,77.8,172.9,27.3,4,Alto
+966,60,M,Nenhum,107.8,77.3,107.0,27.3,0,Baixo
+967,61,F,Diabetes tipo 2,117.2,72.8,150.7,34.4,0,Alto
+968,40,F,Asma,102.3,67.3,88.0,28.6,0,Baixo
+969,84,M,Hipertensão,125.7,86.8,107.1,30.4,2,Alto
+970,20,F,Hipertensão,124.7,82.0,86.7,25.1,0,Moderado
+971,39,M,Nenhum,124.0,81.2,80.1,27.8,0,Baixo
+972,48,M,Hipotireoidismo,123.0,80.5,77.7,25.0,0,Baixo
+973,52,M,Diabetes tipo 2,117.8,65.0,132.8,28.6,0,Baixo
+974,52,F,Nenhum,101.5,65.0,84.2,23.8,1,Baixo
+975,28,M,Nenhum,111.9,69.7,90.3,22.2,0,Baixo
+976,34,F,Nenhum,107.5,67.6,75.1,28.6,1,Baixo
+977,24,M,Hipertensão,143.2,89.5,95.7,23.6,1,Moderado
+978,59,F,Hipotireoidismo,126.8,77.5,94.0,21.0,0,Baixo
+979,43,F,Diabetes tipo 2,125.6,82.7,136.4,27.6,0,Baixo
+980,58,M,Nenhum,107.4,77.8,107.1,31.5,0,Baixo
+981,60,M,Asma,87.6,76.5,88.6,29.2,1,Baixo
+982,68,M,Nenhum,97.3,83.4,86.9,18.4,1,Baixo
+983,57,F,Asma,129.2,78.3,87.1,30.4,0,Baixo
+984,64,M,Nenhum,111.0,75.5,91.7,30.4,0,Moderado
+985,60,M,Diabetes tipo 2,107.5,85.4,158.6,20.4,4,Alto
+986,64,M,Hipotireoidismo,131.4,75.8,85.3,15.0,0,Baixo
+987,62,M,Nenhum,127.7,72.9,73.1,24.7,1,Moderado
+988,40,F,Diabetes tipo 2,115.2,69.1,150.6,29.8,0,Moderado
+989,35,F,Hipotireoidismo,112.1,79.9,92.8,31.4,2,Moderado
+990,74,M,Nenhum,113.7,83.7,96.5,21.5,0,Baixo
+991,42,M,Nenhum,117.3,74.6,102.3,32.0,0,Moderado
+992,57,F,Diabetes tipo 2,131.0,84.2,176.1,15.0,1,Moderado
+993,32,F,Nenhum,119.2,61.2,96.4,23.5,0,Baixo
+994,49,M,Nenhum,122.3,74.6,105.2,23.3,0,Baixo
+995,56,M,Hipertensão,156.8,99.6,100.1,31.7,2,Alto
+996,63,F,Diabetes tipo 2,103.3,69.9,144.1,32.9,2,Alto
+997,55,M,Nenhum,122.5,91.7,110.8,28.8,0,Baixo
+998,43,M,Nenhum,112.1,74.5,100.0,19.6,1,Baixo
+999,87,F,Asma,89.8,72.1,104.1,28.5,3,Alto
+1000,54,F,Hipertensão,125.5,86.4,90.0,24.5,0,Baixo
